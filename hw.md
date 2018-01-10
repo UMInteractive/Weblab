@@ -1,43 +1,4 @@
-<<<<<<< HEAD
-
-
-resonisve 25%
-final 25%
-
-Resume 10%
-resume CSS 10%
-quiz 10%
-
-seo/marketing/creative Brief 10%
-
-partcipation 10%
-
-
-
-
-
-
-# First Website (100 Points)
-
-Create a simple Wordpress site.
-* Install Wordpress (20 Points)
- * Install a theme (10 Points)
- * Add Menu (10 Points)
-* Should Include a minimum of 5 Images (10 Points)
-* Presentation (10 Points)
-* 4 Pages Include: (40 Points)
- * Intro page
-   * Include an image of yourself
-    * Bio
- * Resume page
- * Interest page
- * Site Outline
-
-
-# HTML/Resume Assignment (100 Points)
-=======
 Create a hw folder in your CIM111 repository folder. For each assignment create a folder.
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
 
 Create an index.html file in your hw folder. All assignments must be linked to this page.
 
@@ -46,12 +7,7 @@ In your index.html page include:
 * Your name
 * List of links to assignments
 
-<<<<<<< HEAD
-=======
 # HTML/Resume Assignment
-
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
-For this assignment, you will be asked to create a personal resumé. If you already have one, please start a new page from scratch. Your personal resumé should contain the following items:
 
 * Your name, at the top of the page as an h1 heading.
 * Use header tags for all section heads
@@ -76,13 +32,8 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 
 Create a resume folder. Place an index.html file in the folder. Then place your code in that file. Create an images folder in your resume folder. When you are finished, place your resume folder in your ftp hw folder. Please link your folder on the index.html file in your hw folder.
 
-<<<<<<< HEAD
 
-
-# HTML/CSS Assignment (100 Points)
-=======
 # HTML/CSS Assignment
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
 
 Style your Resume using CSS styling elements
 * Create 2 links
@@ -97,18 +48,7 @@ Style your Resume using CSS styling elements
  * Must use each class more the once
 * Make sure the webpage and css works. - 5 points
 
-<<<<<<< HEAD
-# Mondrian Painting (out)
-
-Create your own mondrian painting. Use div tags to create a series of boxes. Use floats or display: inline-block;
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/220px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
-
-
-## Responsive Site (200 Points)
-=======
 # Responsive Site
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
 
 For this assignment, you will be asked to create a personal site.  You must create a 3-page minimum responsive website about a special topic. Choose a hobby, cause, or any topic you might be interested in. Use media queries to create a dynamic multi-column layout.
 
@@ -129,11 +69,7 @@ Points
  * Styles where appropriate
 
 
-<<<<<<< HEAD
- ## jQuery Assignment 1 - How to Website Due Nov 29-30th
-=======
  # jQuery Assignment 1 - How to Website Due Nov 29-30th
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
 
  Create a one how-to html page. Create a recipe page or how to make something, i.e. craft. Your page should have a minimum of 5 steps. Take images or video. Use organizational tags and css to organize and style your page. Include ingredients, directions, and Tips.
 
@@ -165,17 +101,14 @@ Points
   * Using CSS Creatively (10 Points)
   * Making your site presentable
 
-<<<<<<< HEAD
-  # Final Due Dec 18-19th
+# Final Due
 
-  ## Creative Brief & Wireframe (50 Points) Due Dec 4-5th
-=======
-  # Final Due
+## Creative Brief & Wireframe
 
-  ## Creative Brief & Wireframe
->>>>>>> 13fa9a7eb28b408bbcf4e3d88efa2259ea2ba86a
+### List 5 portfolios you admire
 
-  ### What’s a creative brief?
+
+### What’s a creative brief?
 
   In the best cases, a creative brief is a document created through initial meetings, interviews, readings and discussions between a client and designer before any work begins. Throughout the project, the creative brief continues to inform and guide the work. A good creative brief will answer these questions:
   * What is this project?
@@ -196,11 +129,10 @@ Points
   9. Details: Any mandatory information that must be included? List of deliverables? Preconceived ideas? Format parameters? Limitations and restrictions? Timeline, schedule, budget?
   10. People: Who are we reporting to? Who exactly is approving this work? Who needs to be informed of our progress? By what means?
 
-  List 5 portfolios you admire
 
 
 
-  ## FINAL PROJECT (300 POINTS)
+## FINAL PROJECT (300 POINTS)
 
   The final project will be either a website for a portfolio, a story, or on a subject you care deeply about. This assignment will be broken up into smaller segments:
 
