@@ -32,7 +32,7 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 ### [Week 9 - Spring Break (Mar 12th - 15th )]()
 
-### [Week 10 – Intro to javascript/jQuery (Mar 19st - 22nd)]()
+### [Week 10 – Intro to Javascript/jQuery (Mar 19st - 22nd)]()
 
 ### [Week 11 – jQuery (Mar 26th - 29th)]()
 
@@ -46,4 +46,4 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 # Resources
 
-# [Homework Assignments]()
+## [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/hw.md)
