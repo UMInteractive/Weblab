@@ -26,19 +26,19 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 ### [Week 6 - Layout and Responsiveness (Feb 19th-22nd)]()
 
-### [Week 7 - Responsiveness Continued (Feb 26th - Mar 1st)]()
+### [Week 7 - Media Formats and Grid (Feb 26th - Mar 1st)]()
 
-### [Week 8 - Responsive Website & Workday (Mar 5th - 8th)]()
+### [Week 8 - Responsive Website Workday (Mar 5th - 8th)]()
 
 ### [Week 9 - Spring Break (Mar 12th - 15th )]()
 
-### [Week 10 – Intro to javascript/jQuery (Mar 19st - 22nd)]()
+### [Week 10 – Intro to Javascript/jQuery (Mar 19st - 22nd)]()
 
 ### [Week 11 – jQuery (Mar 26th - 29th)]()
 
 ### [Week 12 – jQuery plugin (Apr 2nd - 5th)]()
 
-### [Week 13 – Catch up (Apr 9th - 12th)]()
+### [Week 13 – Introduction to web platforms (Apr 9th - 12th)]()
 
 ### [Week 14 – Marketing Workshop (Apr 16th – 19th)]()
 
@@ -46,4 +46,4 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 # Resources
 
-# [Homework Assignments]()
+## [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/hw.md)
