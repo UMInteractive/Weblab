@@ -17,29 +17,29 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 ## Calendar
 
-### [Week 1 - Introduction to Web Jan 16-18th ]()
+### [Week 1 - Introduction to Web Jan 16-18th ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
 ### [Week 2 -Setting up your environment Jan 22nd-25th]()
 
-### [Week 3 - Introduction to HTML (Jan 29th-Feb 1st)]()
+### [Week 3 - Introduction to HTML (Jan 29th-Feb 1st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
-### [Week 4 - HTML Cont. (Feb 5th-8th)]()
+### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
-### [Week 5 - CSS (Feb 12th- 15th)]()
+### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 
-### [Week 6 - Layout and Responsiveness (Feb 19th-22nd)]()
+### [Week 6 - Media Formats and Responsiveness (Feb 19th-22nd)](https://github.com/UMInteractive/Weblab/wiki/4-Media-Queries)
 
-### [Week 7 - Media Formats and Grid (Feb 26th - Mar 1st)]()
+### [Week 7 - Layouts and Grid (Feb 26th - Mar 1st)](https://github.com/UMInteractive/Weblab/wiki/5-Layout)
 
 ### [Week 8 - Responsive Website Workday (Mar 5th - 8th)]()
 
 ### [Week 9 - Spring Break (Mar 12th - 15th )]()
 
-### [Week 10 – Intro to Javascript/jQuery (Mar 19st - 22nd)]()
+### [Week 10 – Intro to Javascript/jQuery (Mar 19st - 22nd)](https://github.com/UMInteractive/Weblab/wiki/6-Javascript)
 
-### [Week 11 – jQuery (Mar 26th - 29th)]()
+### [Week 11 – jQuery (Mar 26th - 29th)](https://github.com/UMInteractive/Weblab/wiki/6-Javascript)
 
-### [Week 12 – jQuery plugin (Apr 2nd - 5th)]()
+### [Week 12 – jQuery plugin (Apr 2nd - 5th)](https://github.com/UMInteractive/Weblab/wiki/7-jQuery-Plugins)
 
 ### [Week 13 – Introduction to web platforms (Apr 9th - 12th)]()
 
