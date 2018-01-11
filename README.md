@@ -12,6 +12,9 @@ CIM111-1R Communication Intl 2054  Zevensuy Rodriguez MoWe 3:35-4:50PM [Class Si
 
 CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
+
+# Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
+
 ## Calendar
 
 ### [Week 1 - Introduction to Web Jan 16-18th ]()
@@ -46,4 +49,4 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 # Resources
 
-## [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/hw.md)
+## [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
