@@ -4,13 +4,13 @@
 
 ### Instructors
 
-CIM111-34 Wolfson 2046 William Jattin MoWe 12:20-1:35PM [Class Site]()
+CIM111-34 Wolfson 2046 William Jattin MoWe 12:20-1:35PM 
 
-CIM111-35 Communication Intl 2057 Rori Kotch MoWe 12:20-1:35PM [Class Site]()
+CIM111-35 Communication Intl 2057 Rori Kotch MoWe 12:20-1:35PM
 
-CIM111-1R Communication Intl 2054  Zevensuy Rodriguez MoWe 3:35-4:50PM [Class Site]()
+CIM111-1R Communication Intl 2054  Zevensuy Rodriguez MoWe 3:35-4:50PM
 
-CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
+CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM
 
 
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
