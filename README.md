@@ -21,6 +21,8 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site]()
 
 ### [Week 2 -Setting up your environment Jan 22nd-25th](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
 
+[Week 2 Example](https://github.com/zevenrodriguez/Weblab/tree/master/week2)
+
 ### [Week 3 - Introduction to HTML (Jan 29th-Feb 1st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
 ### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
