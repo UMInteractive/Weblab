@@ -23,7 +23,7 @@ CIM111-P Wolfson 2046 Kim Grinfeder TuTh 11:00AM-12:15PM [Class Site](https://gi
 
 ### [Week 3 - Introduction to HTML (Jan 29th-Feb 1st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
-### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
+### [Week 4 - HTML Cont. and CSS (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 
 ### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 
