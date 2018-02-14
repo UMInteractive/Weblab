@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Nanum+Gothic');
+  body{
+    font-family: sans-serif;
+    background-color: red;
+  }
+
+  header{
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  main{
+    background-color: white;
+    width: 940px;
+    margin: 0 auto;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+
+  }
+
+  footer{
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    color: pink;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  h3 em{
+    text-decoration: underline;
+    color: green;
+  }
+
+  nav{
+    width: 350px;
+    margin: 0 auto;
+  }
+
+  nav ul{
+    margin-left: -30px;
+  }
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  nav ul li a:hover{
+    background-color: pink;
+  }
+
+  a{
+    text-decoration: none;
+    color: green;
+  }
+
+  a:hover{
+    color: black;
+  }
+
+  p {
+    line-height: 50px;
+    font-family: 'Nanum Gothic', sans-serif;
+
+  }
+
+  #centerText{
+    text-align: center;
+    color: blue;
+  }
+
+  .greyOut{
+    color: grey;
+  }
+
+  section{
+    margin-bottom: 100px;
+  }
+
+  .work{
+    margin-bottom: 50px;
+    width: 350px;
+    height: 400px;
+    display: inline-block;
+    padding: 10px;
+    background-color: blue;
+  }
+
+  #moveUp{
+    margin-top: -25px;
+  }
+
+  .titles{
+    font-weight: bold;
+    color: purple;
+  }
