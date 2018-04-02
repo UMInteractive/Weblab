@@ -24,6 +24,22 @@
     <div class="box" id="box3">Click here to hide</div>
     <div id="box2info"><p>This is box2 stuff.</p></div>
 
+    <div class="box" id="box4">Enter and leave to change text</div>
+    <div id="box4info"><p>This is box4 stuff.</p></div>
+
+    <div class="box" id="box5">Click to show image</div>
+    <div class="box" id="box6">Click to hide/remove html image</div>
+    <div id="box5Image"></div>
+
+
+    <div class="box" id="box7">Toggle text</div>
+    <div id="box7info"><p>This is box7 toggle stuff.</p></div>
+
+
+
+
+
+
     <script src="js/jquery-3.3.1.min.js"></script>
     <script>
       $(document).ready(function(){
@@ -31,6 +47,7 @@
         $("body").css("background-color", "pink");
         $("#box1").html("<h1>Hello </h1>");
         $("#box2info").hide();
+        $("#box7info").hide();
 
         $("#box2").click(function(){
 
@@ -41,6 +58,30 @@
         $("#box3").click(function(){
           $("#box2info").hide();
         });
+
+        $("#box4").mouseenter(function(){
+          $("#box4info").css("font-size", "20px");
+        });
+
+        $("#box4").mouseleave(function(){
+          $("#box4info").css("font-size", "10px");
+        });
+
+        $("#box5").click(function(){
+          $("#box5Image").html("<img src='https://upload.wikimedia.org/wikipedia/commons/4/43/Michael_Jackson_Cannescropped.jpg'>");
+        });
+
+        $("#box6").click(function(){
+          $("#box5Image").html("");
+        });
+
+        $("#box7").click(function(){
+          $("#box7info").toggle(1000);
+        });
+
+
+
+
 
 
       });
