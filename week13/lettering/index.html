@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Lettering.js</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+        body{
+            font-family: "Amatic SC", cursive;
+        }
+
+        .char1{
+            color:aqua;
+        }
+        .char2{
+            color:peachpuff;
+        }
+        .char3{
+            color:rosybrown;
+        }
+        .char4{
+            color:red;
+        }
+        .char5{
+            color:deepskyblue;
+        }
+        .word1{
+            color:mediumpurple;
+        }
+        .line2{
+            color:greenyellow;
+        }
+
+    </style>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.lettering.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".fancy_title").lettering();
+
+            $(".word_split").lettering('words');
+
+
+            $(".line_split").lettering('lines');
+        });
+    </script>
+
+</head>
+
+<body>
+    <h1 class="fancy_title">Hello</h1>
+
+
+    <p class="word_split">Don't break my heart.</p>
+
+
+    <p class="line_split">Are you
+        <br/> ready to
+        <br/> RUMmMmMMBBLE!</p>
+
+</body>
+
+
+</html>

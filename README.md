@@ -39,7 +39,7 @@ Office Hours: https://calendly.com/zevenrodriguez
 
 ### [Week 12 – jQuery plugin (Apr 2nd - 5th)](https://github.com/UMInteractive/Weblab/wiki/7-jQuery-Plugins)
 
-### [Week 13 – Introduction to web platforms (Apr 9th - 12th)]()
+### [Week 13 – jQuery plugin (Apr 9th - 12th)](https://github.com/UMInteractive/Weblab/wiki/7-jQuery-Plugins)
 
 ### [Week 14 – Marketing Workshop (Apr 16th – 19th)]()
 
