@@ -45,6 +45,8 @@ Office Hours: https://calendly.com/zevenrodriguez
 
 ### [Week 15 - Final Project Lab (Apr 23th – 26th)]()
 
+# Final Due 5/7/2018, Monday by 4:30PM 
+
 # Resources
 
 ## [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
