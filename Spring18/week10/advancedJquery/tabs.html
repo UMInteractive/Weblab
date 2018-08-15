@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>My super awsome website!!!</title>
+
+    <style>
+        .tabSection {
+            width: 600px;
+            height: auto;
+            background-color: white;
+            border: 1px solid;
+
+            margin: 20px;
+        }
+
+        .tabs {
+            width: auto;
+            height: auto;
+            float: left;
+            background-color: blue;
+            padding: 10px;
+            color: white;
+        }
+
+        .captions {
+            width: 560px;
+            height: auto;
+            margin: 10px auto;
+            border: 1px solid;
+            padding: 10px;
+            background-color: white;
+        }
+
+        .clear {
+            clear: both;
+            float: none;
+        }
+    </style>
+
+    <script src="js/jquery-3.1.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            //This is a comment
+            // going to go in here
+
+            $("#caption1").hide();
+            $("#caption2").hide();
+            $("#caption3").hide();
+
+
+
+            $("#tab1").click(function () {
+
+
+                $("#caption1").show();
+                $("#caption2").hide();
+                $("#caption3").hide();
+
+
+
+            });
+
+
+
+            $("#tab2").click(function () {
+
+
+                $("#caption1").hide();
+                $("#caption2").show();
+                $("#caption3").hide();
+
+            });
+
+             $("#tab3").click(function () {
+
+                $("#caption1").hide();
+                $("#caption2").hide();
+                $("#caption3").show();
+
+            });
+
+
+
+
+
+        });
+    </script>
+</head>
+
+<body>
+    <div class="tabSection" id="tabsCaption1">
+        <div class="tabs" id="tab1">tab1</div>
+        <div class="tabs" id="tab2">tab2</div>
+        <div class="tabs" id="tab3">tab3</div>
+
+        <div class="clear"></div>
+
+        <div class="captionSection" id="captionSection1">
+
+            <div class="captions" id="caption1">This image is about a near death experience </div>
+            <div class="captions" id="caption2">This image is about a sad experience </div>
+            <div class="captions" id="caption3">This image is about a another experience </div>
+        </div>
+    </div>
+
+
+</body>
+
+
+</html>

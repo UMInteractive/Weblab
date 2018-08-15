@@ -1,0 +1,15 @@
+@import "desktop.css";
+
+header{
+  width: 700px;
+}
+
+main{
+  width: 700px;
+}
+
+.work{
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}

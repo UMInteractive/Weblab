@@ -1,0 +1,31 @@
+header{
+  width: 80%;
+  height: 100px;
+  background-color: green;
+  margin: 0 auto;
+}
+
+main{
+  width: 80%;
+  height: auto;
+  background-color: green;
+  margin: 0 auto;
+}
+
+nav{
+  width: 80%;
+  height: 50px;
+  background-color: pink;
+  margin: 0 auto;
+}
+
+nav ul{
+  width: 200px;
+  margin: 0 auto;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+
+}
