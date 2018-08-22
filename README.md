@@ -1,30 +1,24 @@
-# Weblab - Spring 2018
+# CIM111 - Weblab - Spring 2018
 
-## This the main repository for CIM111 courses
+## Zevensuy Rodriguez
+
+* Office UM School of Communication Wolfson Building 2nd Fl Room 2022
+* Office Hours
+  * Tuesday 10AM-12PM
+  * Thursday 10AM-12PM
+  * To sign up for office hours please visit https://calendly.com/zevenrodriguez 
 
 ### Instructors
-
-CIM111-J Communication Intl 2054 Eliot Rodriguez MoWe 5:00PM - 6:15PM [Class Site]()
-
-CIM111-Q Wolfson 3032 William Jattin TuTh 12:30PM - 1:45PM [Class Site](https://github.com/wjattin/weblab/)
 
 CIM111-R Wolfson 3032 Zevensuy Rodriguez TuTh 2:00PM - 3:15PM [Class Site](https://github.com/zevenrodriguez/Weblab)
 
 CIM111-S Communication Intl 2057 Zevensuy Rodriguez TuTh 3:30PM - 4:45PM [Class Site](https://github.com/zevenrodriguez/Weblab)
-
 
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
 ## Calendar
 
 ### Important Dates
-
-Aug 20th Classes begin
-Sept 3rd Labor Day
-Oct 18-21st Fall Recess
-Nov 17th - Nov 25th Thanksgiving Recess
-Dec 4th Reading Day
-Dec 6-12th Final Exams
 
 ### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
