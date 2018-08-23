@@ -6,7 +6,8 @@ CIM111-R Wolfson 3032 TuTh 2:00PM - 3:15PM [Class Site](https://github.com/zeven
 
 CIM111-S Communication Intl 2057 TuTh 3:30PM - 4:45PM [Class Site](https://github.com/zevenrodriguez/Weblab)
 
-* Office UM School of Communication Wolfson Building 2nd Fl Room 2022
+* Email: zevenrodriguez@miami.edu
+* Office UM School of Communication Francis L. Wolfson Building 2nd Fl Room 2022
 * Office Hours
   * Tuesday 10AM-12PM
   * Thursday 10AM-12PM
