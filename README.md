@@ -15,6 +15,8 @@ CIM111-S Communication Intl 2057 TuTh 3:30PM - 4:45PM [Class Site](https://githu
 
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
+[View assignments here](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+
 ## Calendar
 
 ### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
