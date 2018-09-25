@@ -1,0 +1,20 @@
+#changeText{
+  color: pink;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#fontChange{
+  font-family: sans-serif;
+}
+
+.backgroundChange{
+  background-color: blue;
+}
+
+#box{
+  background-color: pink;
+  width: 180px;
+  height: 180px;
+  padding: 10px;
+}
