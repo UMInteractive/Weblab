@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Responsive</title>
+    <style>
+      header,footer{
+        width: 80%;
+        height: 100px;
+        background-color: purple;
+        margin: 0 auto;
+      }
+
+      main{
+        width: 80%;
+        height: 600px;
+        background-color: blue;
+        margin: 0 auto;
+      }
+
+      .col{
+        width: 49.5%;
+        height: 500px;
+        background-color: aqua;
+        display: inline-block;
+        vertical-align: top;
+
+      }
+
+      @media only screen and (min-width: 960px){
+        body{
+          background-color: orange;
+        }
+      }
+
+      @media only screen and (max-width: 600px){
+        body{
+          background-color: green;
+        }
+
+        .col{
+          width: 100%;
+          display: block;
+          margin-bottom: 20px;
+        }
+      }
+
+
+
+    </style>
+  </head>
+
+  <body>
+    <header></header>
+    <main>
+      <div class="col">
+        <h1>Column 1</h1>
+        <h1>Column 1</h1>
+        <h1>Column 1</h1>
+      </div>
+      <div class="col">
+          <h1>Column 2</h1>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+
+</html>

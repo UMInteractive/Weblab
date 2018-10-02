@@ -9,27 +9,38 @@
 #box{
   background-color: orange;
   width: 180px;
-  height: auto;
+  height: 420px;
 
   padding: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-
-  border-style: dashed;
-  border-width: 5px;
-  border-color: red;
 
   border: solid blue 10px;
-  border-width: 10px 5px 10px 5px;
 
-  margin: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-right: 50px;
-  margin-left: 50px;
-  margin: 50px 50px 50px 50px;
+  /* margin: 0 auto; */
+  display: inline-block;
+  vertical-align: top;
+}
+
+#box2{
+  background-color: orange;
+  width: 400px;
+  height: 420px;
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cols{
+  width: 160px;
+  height: 400px;
+  padding: 10px;
+  background-color: aqua;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#container1{
+  background-color: purple;
+  width: 700px;
   margin: 0 auto;
 }
 

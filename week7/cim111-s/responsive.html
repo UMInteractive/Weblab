@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Responsive</title>
+    <style>
+      header, footer{
+        background-color: purple;
+        width: 80%;
+        height: 100px;
+        margin: 0 auto;
+      }
+
+      main{
+        background-color: yellow;
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+      }
+
+      .cols{
+        width: 49.5%;
+        height: 400px;
+        background-color: red;
+        display: inline-block;
+        vertical-align: top;
+
+      }
+
+      @media only screen and (min-width: 960px) {
+        body{
+          background-color: orange;
+        }
+      }
+
+      @media only screen and (max-width: 600px){
+        body{
+          background-color: green;
+        }
+
+        .cols{
+          display: block;
+          width: 100%;
+          margin-bottom: 10px;
+        }
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+    <header></header>
+    <main>
+      <div class="cols"></div>
+      <div class="cols"></div>
+    </main>
+    <footer></footer>
+
+  </body>
+
+
+
+</html>

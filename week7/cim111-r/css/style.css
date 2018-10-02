@@ -1,0 +1,111 @@
+#changeText{
+  color: pink;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#fontChange{
+  font-family: sans-serif;
+}
+
+.backgroundChange{
+  background-color: blue;
+}
+
+#container1{
+  width: 700px;
+  height: 420px;
+  background-color: cyan;
+  margin: 0 auto;
+}
+#box{
+  background-color: pink;
+  width: 180px;
+  height: 400px;
+  padding: 10px;
+  border: solid red 10px;
+  /* margin: 0 auto; */
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#box2{
+  background-color: pink;
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: -50px;
+}
+
+
+header{
+  background-color: orange;
+  width: 960px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+main{
+  background-color: black;
+  width: 960px;
+  height: auto;
+  color: white;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+footer{
+  background-color: orange;
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+nav{
+  background-color: pink;
+  width: 300px;
+  margin: 0 auto;
+}
+
+nav ul{
+
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+nav ul li a:hover{
+  color: gray;
+}
+
+.columns{
+  width: 180px;
+  height: 400px;
+  background-color: aqua;
+  display: inline-block;
+  margin-right: 15px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+/* end of code  */
