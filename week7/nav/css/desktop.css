@@ -1,0 +1,48 @@
+header {
+    width: 80%;
+    height: 100px;
+    background-color: coral;
+    margin: 0 auto;
+}
+
+nav{
+  width: 325px;
+  height: 50px;
+  background-color: black;
+  margin: 0 auto;
+}
+
+nav ul{
+  margin-left: -30px;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  /* width: 100px; */
+  text-align: center;
+  margin-right: 20px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+nav ul li a:hover{
+  background-color: pink;
+}
+
+main {
+    width: 80%;
+    height: 600px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+footer {
+    width: 80%;
+    height: 50px;
+    background-color: coral;
+    margin: 0 auto;
+}
