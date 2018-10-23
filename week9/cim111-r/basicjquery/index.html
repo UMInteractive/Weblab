@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Intro to javascript/jquery</title>
+  </head>
+  <body>
+
+    <h1 id="changeText">Intro to javascript</h1>
+
+
+    <!-- Relative -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <!-- Absolute Remote -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script>
+      //Write a comment
+      //Start of script
+      $(document).ready(function(){
+          //All code should be placed below
+
+          $("body").css("background-color", "pink");
+          $("h1").css("color", "midnightblue");
+          $("#changeText").css("font-size", "40px");
+          $("#changeText").html("I love javascript!!!!");
+
+          $("#changeText").click(function(){
+            $("body").css("background-color", "yellow");
+
+          });//end of change text click
+
+
+        });//end of document ready
+
+    </script>
+
+  </body>
+
+
+</html>
