@@ -3,10 +3,39 @@
 <html>
   <head>
     <title>Intro to javascript/jquery</title>
+
+    <style>
+      .box{
+        width: 100px;
+        height: 100px;
+        background-color: green;
+      }
+
+    </style>
   </head>
   <body>
 
     <h1 id="changeText">Intro to javascript</h1>
+
+    <h2 id="info">Mouse over to see more info</h2>
+    <div id="recepticle"></div>
+
+    <h2>Image Gallery</h2>
+    <img id="image1" src="https://c6.staticflickr.com/2/1087/682231827_6790b3145f_o.jpg" width="100">
+    <img id="image2" src="https://c5.staticflickr.com/8/7342/10614070595_db3106e83b_o.jpg" width="100">
+    <div id="imageRecepticle"></div>
+
+
+    <h2>Show, Hide, and Toggle</h2>
+    <ul>
+      <li id="show">Show</li>
+      <li id="hide">Hide</li>
+      <li id="toggle">Toggle</li>
+    </ul>
+
+    <div class="box"></div>
+
+
 
 
     <!-- Relative -->
@@ -20,6 +49,8 @@
       $(document).ready(function(){
           //All code should be placed below
 
+          $(".box").hide();
+
           $("body").css("background-color", "pink");
           $("h1").css("color", "midnightblue");
           $("#changeText").css("font-size", "40px");
@@ -29,6 +60,41 @@
             $("body").css("background-color", "yellow");
 
           });//end of change text click
+
+            $("#info").mouseenter(function(){
+              $("#recepticle").html("<em>This information is important</em>");
+              $("#info").css("background-color", "blue");
+
+
+            });
+
+            $("#info").mouseleave(function(){
+              $("#recepticle").html("");
+
+              $("#info").css("background-color", "transparent");
+
+            });
+
+            $("#image1").click(function(){
+              $("#imageRecepticle").html('<img src="https://c6.staticflickr.com/2/1087/682231827_6790b3145f_o.jpg" width="300">');
+            });
+
+            $("#image2").click(function(){
+              $("#imageRecepticle").html('<img src="https://c5.staticflickr.com/8/7342/10614070595_db3106e83b_o.jpg" width="300">');
+            });
+
+
+            $("#hide").click(function(){
+              $(".box").hide();
+            });
+
+            $("#show").click(function(){
+              $(".box").show();
+            });
+
+            $("#toggle").click(function(){
+              $(".box").toggle(1000);
+            });
 
 
         });//end of document ready
