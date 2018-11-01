@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <title>Lettering</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
+    <style>
+      .char1{
+        color: red;
+      }
+      .char2{
+        color: green;
+      }
+      .char3{
+        color: blue;
+      }
+      .char4{
+        color: purple;
+      }
+      .word6{
+        color: orange;
+        font-size: 30px;
+      }
+
+      .line2{
+        font-family: sans-serif;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <div id="letters">Elephant</div>
+    <p id="wordSplit">I know what I am doing!</p>
+    <p id="sentence">I am</br>
+      broken</br>
+      up</br></p>
+
+      <a data-fancybox="gallery" href="https://farm8.staticflickr.com/7321/13038886054_f80c3a8b15_o.jpg"><img src="https://farm8.staticflickr.com/7321/13038886054_f80c3a8b15_o.jpg" width="100"></a>
+
+      <a data-fancybox="gallery" href="https://c6.staticflickr.com/1/30/98723563_11087feeca_o.jpg"><img src="https://c6.staticflickr.com/1/30/98723563_11087feeca_o.jpg" width="100"></a>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/jquery.lettering.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        $("#letters").lettering();
+        $("#wordSplit").lettering("words");
+        $("#sentence").lettering("lines");
+      });
+
+    </script>
+
+
+
+
+  </body>
+
+
+</html>
