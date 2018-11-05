@@ -19,6 +19,9 @@ CIM111-S Communication Intl 2057 TuTh 3:30PM - 4:45PM [Class Site](https://githu
 
 ## Calendar
 
+# Final CIM 111-R 12/11/2018, Tuesday 5:00PM - 7:30PM 
+# Final CIM 111-s 12/11/2018, Tuesday 2:00PM - 4:30PM
+
 ### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
 ### [Week 2 -Setting up your environment Aug 27th-30th](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
