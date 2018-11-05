@@ -13,14 +13,14 @@ CIM111-S Communication Intl 2057 TuTh 3:30PM - 4:45PM [Class Site](https://githu
   * Thursday 10AM-12PM
   * To sign up for office hours please visit https://calendly.com/zevenrodriguez
 
-# Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
+## Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
-[View assignments here](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+## [View assignments here](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
-## Calendar
+# Calendar
 
-# Final CIM 111-R 12/11/2018, Tuesday 5:00PM - 7:30PM 
-# Final CIM 111-s 12/11/2018, Tuesday 2:00PM - 4:30PM
+## Final CIM 111-R 12/11/2018, Tuesday 5:00PM - 7:30PM
+## Final CIM 111-s 12/11/2018, Tuesday 2:00PM - 4:30PM
 
 ### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
