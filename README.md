@@ -10,16 +10,19 @@ CIM111-Q Communication Intl 2054 William Jattin TuTh 12:30PM - 1:45PM [Class Sit
 
 CIM111-S Wolfson 3034 Lindsay Grace TuTh 3:30PM - 4:45PM [Class Site]()
 
-CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Site]()
+CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Site](https://github.com/eliot84/Weblab)
 
-# Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
+# Resourses
+##  [Notes](https://github.com/UMInteractive/Weblab/wiki)
+##  [Syllabus]()
+##  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
 ## Calendar
 
 ### [Week 1 - Introduction to Web (Jan 14th-17th)](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
 ### [Week 2 -Setting up your environment (Jan 21th-24th)](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
-#### Martin Luther King Day - No Monday Class
+#### Martin Luther King Day January 21st - No Monday Class
 
 ### [Week 3 - Introduction to HTML (Jan 28th-31st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
@@ -33,7 +36,7 @@ CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Sit
 
 ### [Week 8 - Responsive Website Workday (Mar 4th-7th)]()
 
-### [Week 9 - Spring Break (Mar 9th-17th)]
+### [Week 9 - Spring Break (Mar 9th-17th)]()
 
 ### [Week 10 - Intro to Javascript/jQuery (Mar 18th-21st)](https://github.com/UMInteractive/Weblab/wiki/6-Javascript)
 
@@ -45,7 +48,7 @@ CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Sit
 
 ### [Week 14 – Project Proposal & Marketing Workshop (Apr 15th-18th)](https://github.com/UMInteractive/Weblab/wiki/9-S.E.O.)
 
-### [Week 15 – Final Project Lab (Nov 22nd–25th)]()
+### [Week 15 – Final Project Lab (Apr 22nd–25th)]()
 
 <!-- ### [Finals - Dec 6th-12th](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 CIM111-J - Eliot Rodriguez Dec 12th 5:00-7:30PM
@@ -55,7 +58,3 @@ CIM111-Q - William Jattin  Dec 6th 2:00-4:30PM
 CIM111-R - Zevensuy Rodriguez Dec 11th 5:00-730PM
 
 CIM111-S - Zevensuy Rodriguez Dec 11th 2:00-4:30PM -->
-
-# Resources
-
-## [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
