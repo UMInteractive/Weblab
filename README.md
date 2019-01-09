@@ -1,6 +1,4 @@
-# Weblab - Fall 2018
-
-## This the main repository for CIM111 courses
+# CIM111 Weblab - Spring 2019
 
 ### Instructors
 
@@ -13,9 +11,9 @@ CIM111-S Wolfson 3034 Lindsay Grace TuTh 3:30PM - 4:45PM [Class Site]()
 CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Site](https://github.com/eliot84/Weblab)
 
 # Resourses
-##  [Notes](https://github.com/UMInteractive/Weblab/wiki)
-##  [Syllabus]()
-##  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+###  [Notes](https://github.com/UMInteractive/Weblab/wiki)
+###  [Syllabus]()
+###  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
 ## Calendar
 
