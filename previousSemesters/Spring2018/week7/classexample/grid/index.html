@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> Grid</title>
+
+  <style>
+
+    header{
+      width: 960px;
+      height: 100px;
+      background-color: coral;
+      margin: 0 auto;
+    }
+
+    main{
+      width: 960px;
+      height: 2000px;
+      background-color: aliceblue;
+    }
+
+    #grid1{
+      height: auto;
+      display: grid;
+      grid-template-rows: 200px 200px 400px 400px;
+      grid-template-columns: 480px 480px;
+    }
+
+    #grid2{
+      height: auto;
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr 3fr;
+
+    }
+
+  </style>
+</head>
+
+<body>
+<header></header>
+<main>
+
+  <div id="grid1">
+    <div>row 1 col 1</div>
+    <div>row 1 col 2</div>
+
+    <div>row 2 col 1</div>
+    <div>row 2 col 2</div>
+
+    <div>row 3 col 1</div>
+    <div>row 3 col 2</div>
+
+    <div>row 4 col 1</div>
+    <div>row 4 col 2</div>
+
+
+
+  </div>
+
+  <div id="grid2">
+    <div>row 1 col 1</div>
+    <div>row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row 1 col 2row </div>
+
+    <div>row 2 col 1</div>
+    <div>row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2row 2 col 2</div>
+
+  </div>
+
+</main>
+<footer></footer>
+
+</body>
+
+
+</html>

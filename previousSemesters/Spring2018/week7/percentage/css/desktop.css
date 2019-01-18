@@ -1,0 +1,48 @@
+header {
+    width: 80%;
+    height: 100px;
+    background-color: coral;
+    margin: 0 auto;
+}
+
+nav{
+  width: 60%;
+  height: 50px;
+  background-color: black;
+  margin: 0 auto;
+}
+
+nav ul{
+  margin-left: -30px;
+  margin: 0 auto;
+  width: 400px;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  width: 100px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+nav ul li a:hover{
+  background-color: pink;
+}
+
+main {
+    width: 80%;
+    height: 600px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+footer {
+    width: 80%;
+    height: 50px;
+    background-color: coral;
+    margin: 0 auto;
+}

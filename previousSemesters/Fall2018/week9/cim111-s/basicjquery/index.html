@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Intro to javascript</title>
+
+    <style>
+      .box{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1 id="textChange">Intro to javascript</h1>
+
+    <h2 id="info">Mouse over to see more info</h2>
+    <div id="recepticle"></div>
+
+    <h2>Click to view images</h2>
+    <img id="image1" src="https://c8.staticflickr.com/4/3009/3053282277_c439242c94_o.jpg" width="100">
+    <img id="image2" src="https://farm7.staticflickr.com/7444/11892550395_1d58585a3c_o.jpg" width="100">
+    <div id="imageRecepticle"></div>
+
+    <ul>
+      <li id="show">Show</li>
+      <li id="hide">Hide</li>
+      <li id="toggle">Toggle</li>
+    </ul>
+
+    <div class="box"></div>
+
+    <div class="box"></div>
+
+    <div class="box"></div>
+
+    <div class="box"></div>
+
+
+
+
+
+
+    <!-- Local jquery script -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <!-- Remote version -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        //All jquery code should be placed below
+
+        $(".box").hide();
+
+        $("body").css("background-color", "purple");
+        $("h1").css("color", "white");
+        $("h1").css("font-size", "40px");
+        $("#textChange").css("background-color", "pink");
+        $("#textChange").html("I love javascript");
+
+        $("#textChange").click(function(){
+
+          $("body").css("background-color", "orange");
+
+        });//End of textChange click
+
+        $("#info").mouseenter(function(){
+          $("#recepticle").html("<em> This information is important </em>");
+          $("#info").css("background-color", "blue");
+        });
+
+        $("#info").mouseleave(function(){
+          $("#recepticle").html("");
+          $("#info").css("background-color", "transparent");
+        });
+
+
+        $("#image1").click(function(){
+          $("#imageRecepticle").html('<img src="https://c8.staticflickr.com/4/3009/3053282277_c439242c94_o.jpg" width="300">');
+        });
+
+        $("#image2").click(function(){
+          $("#imageRecepticle").html('<img src="https://farm7.staticflickr.com/7444/11892550395_1d58585a3c_o.jpg" width="300">');
+        });
+
+
+        $("#hide").click(function(){
+          $(".box").hide();
+        });
+
+        $("#show").click(function(){
+          $(".box").show();
+        });
+
+        $("#toggle").click(function(){
+          $(".box").toggle(1000);
+        });
+
+      });// End of document ready
+
+    </script>
+
+  </body>
+
+
+</html>

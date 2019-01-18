@@ -1,0 +1,22 @@
+header, footer{
+  background-color: purple;
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+}
+
+main{
+  background-color: yellow;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.cols{
+  width: 49.5%;
+  height: 400px;
+  background-color: red;
+  display: inline-block;
+  vertical-align: top;
+
+}

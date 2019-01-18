@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive|Shadows+Into+Light');
+
+
+
+body{
+  background-color: green;
+  font-family: 'Cedarville Cursive', cursive;
+
+}
+
+#name{
+  color: orange;
+  font-family: 'Shadows Into Light', cursive;
+}

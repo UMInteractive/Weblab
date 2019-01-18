@@ -1,0 +1,88 @@
+#changeText{
+  color: pink;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#fontChange{
+  font-family: sans-serif;
+}
+
+.backgroundChange{
+  background-color: blue;
+}
+
+#box{
+  background-color: pink;
+  width: 180px;
+  height: auto;
+  padding: 10px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: red;
+  border-width: 5px 10px 5px 10px;
+  border: solid red 10px;
+  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin: 50px 50px 50px 50px;
+  margin: 0 auto;
+}
+
+
+header{
+  background-color: orange;
+  width: 960px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+main{
+  background-color: black;
+  width: 960px;
+  height: auto;
+  color: white;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+footer{
+  background-color: orange;
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: -20px;
+}
+
+nav{
+  background-color: pink;
+  width: 300px;
+  margin: 0 auto;
+}
+
+nav ul{
+
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+nav ul li a:hover{
+  color: gray;
+}

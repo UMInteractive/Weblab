@@ -1,0 +1,96 @@
+#colorChange{
+  color: peru;
+}
+
+.backgroundChange{
+  background-color: red;
+}
+
+#box{
+  background-color: orange;
+  width: 180px;
+  height: 420px;
+
+  padding: 10px;
+
+  border: solid blue 10px;
+
+  /* margin: 0 auto; */
+  display: inline-block;
+  vertical-align: top;
+}
+
+#box2{
+  background-color: orange;
+  width: 400px;
+  height: 420px;
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cols{
+  width: 160px;
+  height: 400px;
+  padding: 10px;
+  background-color: aqua;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#container1{
+  background-color: purple;
+  width: 700px;
+  margin: 0 auto;
+}
+
+
+header{
+  background-color: orange;
+  width: 960px;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: -25px;
+}
+
+main{
+  background-color: black;
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: -16px;
+}
+
+footer{
+  background-color: orange;
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: -16px;
+
+}
+
+nav{
+  width: 300px;
+  margin: 0 auto;
+  background-color: pink;
+}
+
+nav ul{
+
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li a:hover{
+  color: gray;
+}

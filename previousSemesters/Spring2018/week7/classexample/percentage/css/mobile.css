@@ -1,0 +1,17 @@
+@import "desktop.css";
+
+header{
+  width: 100%;
+}
+
+main{
+  width: 100%;
+}
+
+nav ul{
+  width: 50px;
+}
+nav ul li{
+  display: block;
+
+}

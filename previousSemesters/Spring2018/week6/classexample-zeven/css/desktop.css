@@ -1,0 +1,125 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+   body{
+    font-family: sans-serif;
+    background-color: #f2f2f2;
+  }
+
+  header{
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom: 20px;
+
+    border-left-width: thin;
+    border-style: solid;
+
+  }
+
+  main{
+    background-color: white;
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+    border-left-width: thin;
+    border-top-width: thin;
+
+    border-style: solid;
+  }
+
+  footer{
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    color: #666;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  h3 em{
+    text-decoration: underline;
+    color: green;
+  }
+
+  nav{
+    width: 350px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+
+  nav ul{
+    margin-left: -30px;
+  }
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: #999;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  nav ul li a:hover{
+    background-color: pink;
+  }
+
+  a{
+    text-decoration: none;
+    color: green;
+  }
+
+  a:hover{
+    color: black;
+  }
+
+  p {
+    line-height: 50px;
+    font-family:  sans-serif;
+
+  }
+
+  #centerText{
+    text-align: center;
+    color: #333;
+  }
+
+  .greyOut{
+    color: grey;
+  }
+
+  section{
+    margin-bottom: 100px;
+  }
+
+  .work{
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 30px;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #f2f2f2;
+    vertical-align: top;
+  }
+
+  #moveUp{
+    margin-top: -22px;
+  }
+
+  .titles{
+    font-weight: bold;
+    color: green;
+  }

@@ -1,0 +1,23 @@
+@import "desktop.css";
+
+#grid1{
+  display: grid;
+  grid-template-areas: "col1" "col2";
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+
+#grid2{
+  display: grid;
+  grid-template-areas: "col3" "col4" "col5";
+  grid-template-columns: 100%;
+  grid-template-rows: 1fr 1fr 1fr;
+  margin-top: 10px;
+}
+
+.images{
+  height: 100px;
+  display: block;
+  margin: 10px auto;
+}
