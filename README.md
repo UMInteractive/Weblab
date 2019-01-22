@@ -1,30 +1,23 @@
-# CIM111 - Weblab - Spring 2018
+# CIM111 Weblab - Spring 2019
 
-### Zevensuy Rodriguez
+### Instructors
 
-CIM111-R Wolfson 3032 TuTh 2:00PM - 3:15PM [Class Site](https://github.com/zevenrodriguez/Weblab)
+CIM111-36 Wolfson 3032 Zevensuy Rodriguez TuTh 2:30PM - 3:45PM [Class Site](https://github.com/zevenrodriguez/Weblab)
 
-CIM111-S Communication Intl 2057 TuTh 3:30PM - 4:45PM [Class Site](https://github.com/zevenrodriguez/Weblab)
+CIM111-Q Communication Intl 2054 William Jattin TuTh 12:30PM - 1:45PM [Class Site](https://github.com/wjattin/weblab/)
 
-* Email: zevenrodriguez@miami.edu
-* Office UM School of Communication Francis L. Wolfson Building 2nd Fl Room 2022
-* Office Hours
-  * Tuesday 10AM-12PM
-  * Thursday 10AM-12PM
-  * To sign up for office hours please visit https://calendly.com/zevenrodriguez
+CIM111-S Wolfson 3034 Lindsay Grace TuTh 3:30PM - 4:45PM [Class Site]()
 
-## Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
+CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Site](https://github.com/eliot84/Weblab)
 
-## [View assignments here](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+# Resourses
+###  [Notes](https://github.com/UMInteractive/Weblab/wiki)
+###  [Syllabus](CIM111-General-Weblab.pdf)
+###  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
-# Calendar
+## Calendar
 
-## Final CIM 111-R 12/11/2018, Tuesday 5:00PM - 7:30PM
-## Final CIM 111-s 12/11/2018, Tuesday 2:00PM - 4:30PM
-
-### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
-
-### [Week 2 -Setting up your environment Aug 27th-30th](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
+### [Week 1 - Introduction to Web (Jan 14th-17th)](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
 ### [Week 2 -Setting up your environment (Jan 21th-24th)](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
 #### Martin Luther King Day January 21st - No Monday Class
