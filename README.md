@@ -15,6 +15,7 @@ CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Sit
 ###  [Syllabus](CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 ###  [Tutoring](https://github.com/UMInteractive/Weblab/wiki/Tutoring)
+### [Office Hour Appointments - Wolfson 2022](https://calendly.com/zevenrodriguez)
 
 
 ## Calendar
