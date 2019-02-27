@@ -1,0 +1,26 @@
+@import "desktop.css";
+          body{
+            background-color: black;
+          }
+
+          section{
+            width: 100%;
+            height: auto;
+            background-color: purple;
+            margin-bottom: 10px;
+          }
+
+          #grid1{
+            display: block;
+
+          }
+
+          #grid2{
+            display: block;
+          }
+
+          .imageGallery{
+            width: 80%;
+            display: block;
+            margin: 0 auto;
+          }
