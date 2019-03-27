@@ -3,14 +3,34 @@
   <head>
     <meta charset="utf-8">
     <title>Intro to javascript</title>
+    <style>
+      li{
+        width: 100px;
+        height: 100px;
+        background-color: purple;
+      }
+
+    </style>
   </head>
   <body>
 
     <h1 id="click1">Click here for more info</h1>
     <h1 id="click2">Click here to hide!</h1>
-    <p id="hideInfo" >This is more info.</p>
+    <p id="hideInfo"class="info" >This is more info.</p>
 
     <h1 id="mouseOverOut">Mouse over and out to see a css change</h1>
+
+    <h1 id="toggle">Toggle Info</h1>
+    <p id="toggleInfo" class="info">This info is being toggled</p>
+
+    <ul>
+      <li id="info1">Info 1</li>
+      <li id="info2">Info 2</li>
+      <li id="info3">Info 3</li>
+      <li id="info4">Clear</li>
+    </ul>
+
+    <div id="replaceText">Click infos to replace text</div>
     <!-- Step 1: Add jquery -->
     <!-- Relative Link jquery -->
     <script type="text/javascript" src="js/jquery.js" ></script>
@@ -20,7 +40,10 @@
         $(document).ready(function(){
           //All jquery code goes below
 
-          $("#hideInfo").hide(); // Hides id hideInfo
+          // $("#hideInfo").hide(); // Hides id hideInfo
+          // $("#toggleInfo").hide();
+          $(".info").hide();
+          $("body").css("background-color", "green");
 
           $("#click1").click(function(){
             $("#hideInfo").show();
@@ -34,11 +57,36 @@
 
           $("#mouseOverOut").mouseenter(function(){
             $("#mouseOverOut").css("color", "grey");
+            $("#mouseOverOut").css("background-color", "blue");
           });
 
           $("#mouseOverOut").mouseleave(function(){
             $("#mouseOverOut").css("color", "black");
+            $("#mouseOverOut").css("background-color", "");
+
           });
+
+          $("#toggle").click(function(){
+            $("#toggleInfo").toggle(1000);
+          });
+
+          $("#info1").click(function(){
+            $("#replaceText").html("This is info 1");
+          });
+
+          $("#info2").click(function(){
+            $("#replaceText").html("<h3>This is info2</h3>");
+          });
+
+          $("#info3").click(function(){
+            $("#replaceText").html("<img src='https://c5.staticflickr.com/4/3651/3368390931_c412eb5390_o.jpg' width='300'><p>'Baby-sloth-at-rescue-center' by Marina Kuperman Villatoro is licensed under CC BY 2.0. To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0</p>");
+          });
+
+          $("#info4").click(function(){
+            $("#replaceText").html("");
+          });
+
+
 
 
 
