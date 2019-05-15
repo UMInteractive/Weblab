@@ -3,10 +3,10 @@
 ### Instructors
 
 # Resourses
-###  [Notes](https://github.com/UMInteractive/Weblab/wiki)
-###  [Syllabus](CIM111-General-Weblab.pdf)
-###  [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
-### [Tutoring](https://github.com/UMInteractive/Weblab/wiki/Tutoring)
+###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
+###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
+###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
+### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 ## Calendar
 
