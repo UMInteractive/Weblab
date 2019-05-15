@@ -1,3 +1,5 @@
+## Notes
+
 ### [Introduction to Web](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
 
 ### [Setting up your environment](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
@@ -14,4 +16,18 @@
 
 ### [jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
-### [Project Proposal & Marketing Workshop](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
+### [Marketing Workshop](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
+
+## Resourses
+
+### [Web Colors](https://github.com/UMInteractive/Weblab/blob/master/notes/WebColors.md)
+
+### [Copywrite](https://github.com/UMInteractive/Weblab/blob/master/notes/Wordpress.md)
+
+### [Domains](https://github.com/UMInteractive/Weblab/blob/master/notes/8-Domains.md)
+
+<!-- ### []()
+
+### []()
+
+### []() -->
