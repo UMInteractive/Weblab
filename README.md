@@ -10,9 +10,9 @@
 
 ## Calendar
 
-### [Week 1 - Introduction to Web ()](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
+### [Week 1 - Introduction to Web ()](notes/1-Intro-to-the-WWW.md)
 
-### [Week 2 -Setting up your environment ()](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
+### [Week 2 -Setting up your environment ()](https://github.com/UMInteractive/Weblab/notes/Setting-Up-Your-Environment.md)
 #### Martin Luther King Day January 21st - No Monday Class
 
 ### [Week 3 - Introduction to HTML ()](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
