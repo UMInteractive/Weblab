@@ -10,33 +10,32 @@
 
 ## Calendar
 
-### [Week 1 - Introduction to Web ()](notes/1-Intro-to-the-WWW.md)
+### [Week 1 - Introduction to Web ()](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
 
-### [Week 2 -Setting up your environment ()](https://github.com/UMInteractive/Weblab/notes/Setting-Up-Your-Environment.md)
-#### Martin Luther King Day January 21st - No Monday Class
+### [Week 2 -Setting up your environment ()](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
-### [Week 3 - Introduction to HTML ()](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
+### [Week 3 - Introduction to HTML ()](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
-### [Week 4 - HTML Cont. and CSS ()](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
+### [Week 4 - HTML Cont. and CSS ()](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
-### [Week 5 - CSS ()](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
+### [Week 5 - CSS ()](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
-### [Week 6 - Media Formats and Responsiveness ()](https://github.com/UMInteractive/Weblab/wiki/4-Media-Queries)
+### [Week 6 - Media Formats and Responsiveness ()](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
-### [Week 7 - Layouts and Grid ()](https://github.com/UMInteractive/Weblab/wiki/5-Layout)
+### [Week 7 - Layouts and Grid ()](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
 
 ### [Week 8 - Responsive Website Workday ()]()
 
-### [Week 9 - Spring Break ()]()
+### [Week 9 - ()]()
 
-### [Week 10 - Intro to Javascript/jQuery ()](https://github.com/UMInteractive/Weblab/wiki/6-Javascript)
+### [Week 10 - Intro to Javascript/jQuery ()](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 11 – jQuery (Mar 25th-28th)](https://github.com/UMInteractive/Weblab/wiki/6-Javascript)
+### [Week 11 – jQuery (Mar 25th-28th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 12 – jQuery plugin (Apr 1st-4th)](https://github.com/UMInteractive/Weblab/wiki/7-jQuery-Plugins)
+### [Week 12 – jQuery plugin (Apr 1st-4th)](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
 ### [Week 13 – Introduction to web platforms ()]()
 
-### [Week 14 – Project Proposal & Marketing Workshop ()](https://github.com/UMInteractive/Weblab/wiki/9-S.E.O.)
+### [Week 14 – Project Proposal & Marketing Workshop ()](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
 ### [Week 15 – Final Project Lab ()]()
