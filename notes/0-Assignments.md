@@ -93,7 +93,7 @@ Points
 
 
 
-# jQuery Assignment 1 - How to Website
+# jQuery Assignment 1 - How to Website (140 Points)
 
  Create a one how-to html page. Create a recipe page, or how to make something, i.e. craft. Your page should have a minimum of 5 steps. Take images or video. Use organizational tags and css to organize and style your page. Include ingredients, directions, and Tips.
 
@@ -114,7 +114,7 @@ Points
       * Using CSS Creatively (25 Points)
         * Making your site presentable
 
-# jQuery Assignment 2 - Plugins
+# jQuery Assignment 2 - Plugins (60 Points)
 
  Choose and implement a jQuery plugin. You must apply the plugin on a minimum of 5 Elements or areas on your site.
 
@@ -143,7 +143,7 @@ Points
 
 
 
-## FINAL PROJECT (300 POINTS)
+# FINAL PROJECT (300 POINTS)
 
 ## Final Deliverables
 * Website (300 Points)
