@@ -98,16 +98,31 @@ Points
 
  Use jQuery to show and hide steps or images. You can use tabs example to cycle through different steps. You can also use the .html() or .css() function to change or augment your html.
 
- You need to have a minimum of :
 
-* 3 .click() or .mouseover() or .mouseleave() events
-  * 1 .show() or .hide() or .toggle() events
-  * 1 add .html()
-  * 1 add .css()
-
- Worth 100 points (25 points per event), 25 points for creativity/design
+  Points (minimum of):
+  * 3 .click() or .mouseover() or .mouseleave() events - 60 Points (20 Points per event)
+    * 1 .show() or .hide() or .toggle() events - (10 Points)
+    * 1 add .html() - (10 Points)
+    * 1 add .css() - (10 Points)
+  * 40 points – HTML/CSS and Creativity
+   * Must Haves:
+     * Minimum 5 Images (10 points)
+     * 1 Header tag (5 Points)
+     * Intro paragraph (5 points)
+     * 5 item List (5 points)
+     * Using CSS Creatively (25 Points)
+       * Making your site presentable
 
 # jQuery Assignment 2 - Plugins
+
+ Choose and implement a jQuery plugin. You must apply the plugin on a minimum of 5 Elements or areas on your site.
+
+ Points:
+ * 10 points – Successfully installing/using jQuery Plugin
+ * 50 points – 10 points per element used
+
+
+<!-- # jQuery Assignment 2 - Plugins
 
  Choose and implement a jQuery plugin. Create a one page site. You must apply the plugin on a minimum of 5 Elements or areas on your site.
 
@@ -122,7 +137,9 @@ Points
   * 5 item List (5 points)
   * 1 Header and Intro paragraph (5 points)
   * Using CSS Creatively (10 Points)
-  * Making your site presentable
+  * Making your site presentable -->
+
+
 
 
 ## FINAL PROJECT (300 POINTS)
