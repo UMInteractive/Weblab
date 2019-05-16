@@ -77,8 +77,9 @@ Points
 
 * Desktop and Mobile Layouts
   * External Style Sheets for each
-  * Styling each layout (80 points)
-  * Mobile and Desktop Navigation (40 points)
+  * Styling each layout - (80 points)
+* Navigation - (40 points)
+  * Mobile and Desktop Navigation Layout
 * 4 different multi row/column grid content sections - (60 points)
   * Examples
     * Gallery
@@ -105,13 +106,13 @@ Points
     * 1 add .html() - (10 Points)
     * 1 add .css() - (10 Points)
   * 40 points – HTML/CSS and Creativity
-   * Must Haves:
-     * Minimum 5 Images (10 points)
-     * 1 Header tag (5 Points)
-     * Intro paragraph (5 points)
-     * 5 item List (5 points)
-     * Using CSS Creatively (25 Points)
-       * Making your site presentable
+    * Must Haves:
+      * Minimum 5 Images (10 points)
+      * 1 Header tag (5 Points)
+      * Intro paragraph (5 points)
+      * 5 item List (5 points)
+      * Using CSS Creatively (25 Points)
+        * Making your site presentable
 
 # jQuery Assignment 2 - Plugins
 
@@ -154,9 +155,15 @@ Points
   The final project will be either a website for a portfolio, a story, or on a subject you care deeply about.
 
   * Deploying/Presenting final website (50 Points)
+    * Minimum 3 gridded sections
+      * 4 Pages or
+      * 1 Page with 6 information sections
+
   * Responsiveness Requirements (100 Points)
     * Use of Media Queries
     * Desktop and Mobile Layouts
+      * Navigation
+      * Main Layout
     * Using CSS grid  
   * jQuery and jQuery Plugins (50 Points)
     * Use jQuery functions and plugins to add thoughtful interaction to your website
