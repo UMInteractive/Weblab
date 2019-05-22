@@ -1,6 +1,11 @@
 # CIM111 Weblab - Summer I 2019
 
-### Instructors
+### Instructor: Zevensuy Rodriguez
+#### Class Time: TuWTh, 5:00-7:00pm
+#### Class Site: https://github.com/zevenrodriguez/CIM542-642
+#### Office: Francis L. Wolfson Building 2022
+#### Office Hours: https://calendly.com/zevenrodriguez
+#### Email: zevenrodriguez@miami.edu
 
 # Resourses
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
