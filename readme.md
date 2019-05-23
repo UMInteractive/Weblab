@@ -21,7 +21,7 @@
 
 ### [Introduction to HTML (May 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
-* [Html Code](notes/html/)
+* [Html Code](CIM111-S12019/notes/html/)
 
 ### [CSS (May 28th – 29th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
