@@ -21,6 +21,8 @@
 
 ### [Introduction to HTML (May 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
+* [Html Code](notes/html)
+
 ### [CSS (May 28th – 29th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
 ### [Media Formats and Responsiveness (May 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
