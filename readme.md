@@ -1,7 +1,7 @@
 # CIM111 Weblab - Summer I 2019
 
 ### Instructor: Zevensuy Rodriguez
-#### Class Time: TuWTh, 5:00-7:00pm
+#### Class Time: TuWTh, 2:00-4:00pm
 #### Class Site: https://github.com/zevenrodriguez/CIM542-642
 #### Office: Francis L. Wolfson Building 2022
 #### Office Hours: https://calendly.com/zevenrodriguez
