@@ -6,14 +6,9 @@
     <title>Zevensuy Rodriguez's Resume</title>
     <meta name="author" content="Zeven" />
     <meta name="keywords" content="basic website">
+
+    <link rel="stylesheet" href="css/style.css">
     <style>
-    h1{
-      color: #ffffff;
-    }
-      body{
-        background-color: blue;
-        color: yellow;
-      }
 
     </style>
 </head>
@@ -21,14 +16,14 @@
 <body>
   <header>
 
-        <h1>Zevensuy Rodriguez</h1>
+        <h1 id="name">Zevensuy Rodriguez</h1>
 
         <br>
         <br>
     </header>
     <main>
       <section>
-            <h1>Objective</h1>
+            <h1 id="narwhal">Objective</h1>
             <h3>Creating and exploring physical interaction using diverse means such as print, video, web, 3D modeling and sculpture.</h3>
           </section>
         <br>
@@ -41,9 +36,14 @@
             <h3><em>Lecturer, University of Miami, School of Communication</em></h3>
             <h5>Classes</h5>
             <ul>
-                <li>Web Lab</li>
+                <li class="bolder">Web Lab</li>
                 <li>Intro to Creative Coding</li>
             </ul>
+
+            <ol>
+                <li>Web Lab</li>
+                <li>Intro to Creative Coding</li>
+            </ol>
           </section>
 
         <br>
@@ -54,7 +54,7 @@
             <article>
             <h5><b>Stephanie Rothenberg</b></h5>
             <h3>Garden of Virtual Kinship</h3>
-            <p>The Garden of Virtual Kinship is a telematic garden, both real and virtual, whose lifeline directly correlates to monetary exchanges between the developed and developing world.</p>
+            <p>The <span class="bolder">Garden of Virtual Kinship</span> is a telematic garden, both real and virtual, whose lifeline directly correlates to monetary exchanges between the developed and developing world.</p>
             <a id="links" href="http://howlinwolves.com/projects/gardenofvirtualkinship.html">More info</a>
           </article>
             <br/>
@@ -62,7 +62,8 @@
             <article>
             <h5><b>Jenna Spevack</b></h5>
             <h3>Inside Outhouse</h3>
-            <p>Jenna is a NYC artist that was looking at building a modular structure that looked like an outhouse. Her goal was to create an emersive auditory experience.</p>
+            <!-- you can have multiple classes, but not multiple ids -->
+            <p><span id="jenna" class="bolder underline">Jenna</span> is a NYC artist that was looking at building a modular structure that looked like an outhouse. Her goal was to create an emersive auditory experience.</p>
             <a id="links" href="http://howlinwolves.com/projects/planthropy.html">More info</a>
           </article>
             <br/>

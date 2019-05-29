@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,900|Permanent+Marker&display=swap');
+
+/* this is comment in css, this only works within a css document or the style tags */
+h1{
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+}
+  body{
+    background-color: blue;
+    color: yellow;
+    font-family: cursive;
+  }
+  h3{
+    background-color: rgb(255,0,0);
+  }
+
+  a{
+    color: pink;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  a:hover{
+    background-color: purple;
+  }
+
+  a:visited{
+    color: green;
+  }
+
+  li{
+    color: green;
+  }
+
+  ul li{
+    list-style: none;
+  }
+
+  h3 em{
+    font-weight: lighter;
+    color: orange;
+  }
+
+  /* id start with #, and are only meant to be used once in the document */
+
+  #name{
+    color: gray;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+  }
+
+  #narwhal{
+    color: cyan;
+  }
+
+  /* classes start with . and can be used multiple times */
+
+  .bolder{
+    font-weight: bold;
+  }
+
+  #jenna{
+    color: hotpink;
+  }
+
+  .underline{
+    text-decoration: underline;
+  }
