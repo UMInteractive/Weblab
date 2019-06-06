@@ -25,9 +25,17 @@
 
 ### [CSS (May 28th – 29th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
+* [CSS Code](CIM111-S12019/notes/css/)
+
 ### [Media Formats and Responsiveness (May 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
+* [Media Query with External Stylesheet Code](CIM111-S12019/notes/layout/indexWithQuery.html)
+
 ### [Layouts and Grid (June 4th – 5th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
+
+* [Simple Layout Code](CIM111-S12019/notes/layout/index.html)
+* [Layout with Nav Code](CIM111-S12019/notes/layout/indexWithNav.html)
+
 
 ### [Responsive Website Workday (June 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 

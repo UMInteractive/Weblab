@@ -4,73 +4,12 @@
     <meta charset="utf-8">
     <title>Basic Layout</title>
 
+    <link rel="stylesheet" href="css/desktop.css" media="only screen and (min-width: 960px)">
+    <link rel="stylesheet" href="css/tablet.css" media="only screen and (min-width: 480px) and (max-width: 960px)">
+
+    <link rel="stylesheet" href="css/mobile.css" media="only screen and (max-width: 480px)">
+
     <style>
-
-      header{
-        width: 960px;
-        height: 100px;
-        background-color: red;
-        margin: 0 auto;
-      }
-
-      footer{
-        width: 960px;
-        height: 100px;
-        background-color: red;
-        margin: 0 auto;
-      }
-
-      main{
-        width: 920px;
-        /* height: 500px; */
-        height: auto;
-        background-color: green;
-        padding: 20px;
-        margin: 0 auto;
-      }
-
-      #name{
-        text-align: center;
-      }
-
-      #imageSection{
-        width: 300px;
-        height: auto;
-        background-color: blue;
-        margin: 0 auto; /* 0 = top/bottom auto = left/right */
-        margin-top: 0px;
-        margin-bottom: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 20px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        padding-left: 20px;
-        padding-right: 20px;
-      }
-
-      #panda{
-        width: 250px;
-        display: block;
-        margin: 0 auto;
-        border-style: solid;
-        border-width: 10px;
-        border-top-width: 5px;
-        border-width: 5px 10px 15px 20px; /* top right bottom left */
-        border-color: yellow;
-      }
-
-      #p1{
-        width: 800px;
-        height: auto;
-        margin: 0 auto;
-        font-size: 20px;
-        line-height: 40px;
-      }
-
-
-
-
 
 
     </style>
@@ -78,7 +17,13 @@
   <body>
     <header>
 
-      
+      <nav>
+        <ul>
+          <li><a href="#p1">Section 1</a></li>
+          <li><a href="#section2">Section 2</a></li>
+          <li><a href="#section3">Section 3</a></li>
+        </ul>
+      </nav>
 
     </header>
     <main>
@@ -87,11 +32,23 @@
           <img id="panda" src="images/panda.jpg">
           <p>This is a panda image</p>
       </div>
+
+      <div id="imageSection">
+          <img id="panda" src="images/panda.jpg">
+          <p>This is a panda image</p>
+      </div>
+
       <p id="p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+      <h2 id="section2">Section 2</h2>
+
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      <h2 id="section3">Section 3</h2>
 
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
@@ -99,7 +56,12 @@
 
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <ul>
+        <li>one</li>
+        <li>two</li>
+        <li>three</li>
+      </ul>
+
     </main>
     <footer></footer>
   </body>

@@ -1,0 +1,21 @@
+@import "desktop.css";
+
+
+header, footer{
+  width: 450px;
+}
+
+main{
+  width: 410px;
+}
+
+#p1{
+  width: 300px;
+}
+
+nav ul li{
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
