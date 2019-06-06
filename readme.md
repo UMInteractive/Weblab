@@ -35,6 +35,7 @@
 
 * [Simple Layout Code](CIM111-S12019/notes/layout/index.html)
 * [Layout with Nav Code](CIM111-S12019/notes/layout/indexWithNav.html)
+* [Grid Examples](CIM111-S12019/notes/grid/)
 
 
 ### [Responsive Website Workday (June 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
