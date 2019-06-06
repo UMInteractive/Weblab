@@ -1,0 +1,15 @@
+@import "desktop.css";
+
+header, main, footer{
+  width: 400px;
+}
+
+#section1{
+  width: 400px;
+  display: block;
+}
+
+#section1,#section2, #section3,#section4{
+  width: 400px;
+  display: block;
+}
