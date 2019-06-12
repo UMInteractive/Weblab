@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <style media="screen">
+
+      .info{
+        /* Limiting the size of the info target area*/
+        width: 200px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="colorChange">Click here to change background color</h1>
+    <h1 id="colorChange2">Click here to change background red</h1>
+    <ul>
+      <li id="info1" class="info">info 1</li>
+      <li id="info2" class="info">info 2</li>
+      <li id="info3" class="info">info 3</li>
+    </ul>
+    <p id="addInfo"></p>
+
+    <h1 id="area1show">Area 1 Show/Hide</h1>
+    <section id="area1content">
+      <h2>Area 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <h1 id="area2toggle">Area 2 toggle</h1>
+    <section id="area2content">
+      <h2>Area 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        // Javascript code goes in here
+        $("body").css("background-color","blue");
+        $("#colorChange").click(function(){
+          $("body").css("background-color", "pink");
+          //end of colorChange
+        });
+
+        $("#colorChange2").click(function(){
+          $("body").css("background-color", "red");
+          // end of colorchange2
+        });
+
+        $("ul li").css("color", "white");
+
+        $("#info1").mouseenter(function(){
+          $("#addInfo").html("Hello all!");
+          //end of info1
+        });
+
+        $("#info2").mouseenter(function(){
+          $("#addInfo").html("<strong>This is bold</strong>");
+          //end of info1
+        });
+
+        $("#info3").mouseenter(function(){
+          $("#addInfo").html("<img src='https://farm3.staticflickr.com/2311/2212271216_8f89aab362_b.jpg' width='300'>");
+          //end of info1
+        });
+
+        $(".info").mouseleave(function(){
+          $("#addInfo").html("");
+          //end of info
+        });
+
+        $("#area1content").hide();
+
+        $("#area1show").mouseenter(function(){
+          $("#area1content").show();
+          $("#area1content").css("color", "white");
+          //end of area 1 show
+        });
+
+        $("#area1show").mouseleave(function(){
+          $("#area1content").hide();
+          //end of area 1 hide
+        });
+
+        $("#area2content").hide();
+
+        $("#area2toggle").click(function(){
+          $("#area2content").toggle(1000);
+          //end of area2toggle
+        });
+
+        //end of document ready
+      });
+    </script>
+
+  </body>
+</html>
