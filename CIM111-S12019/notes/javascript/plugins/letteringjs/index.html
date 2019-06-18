@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <style media="screen">
+      .char3{
+        color: red;
+      }
+      .word1{
+        color: blue;
+      }
+
+      .line2{
+        color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 class="fancy_title">Some Title</h1>
+    <h1 class="words">Some Words</h1>
+    <h1 class="lines">These <br> are <br> some lines</h1>
+
+
+    <!-- 1.) Jquery Library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- 2.) Jquery pluging -->
+    <script type="text/javascript" src="js/jquery.lettering-0.6.min.js">
+    </script>
+    <!-- Script to activate plugin  -->
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $(".fancy_title").lettering();
+        $(".words").lettering("words");
+        $(".lines").lettering("lines");
+
+      });
+    </script>
+
+  </body>
+</html>
