@@ -40,7 +40,7 @@
 
 ### [Responsive Website Workday (June 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
-### [Intro to Javascript/jQuery (June 11th – 13th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md
+### [Intro to Javascript/jQuery (June 11th – 13th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
 * [Grid Examples](CIM111-S12019/notes/javascript/)
 
