@@ -47,7 +47,7 @@
 ### [jQuery plugin (June 18th – 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
 * [Lettering JS Example](CIM111-S12019/notes/javascript/plugins/letteringjs/)
-* [Layout with Nav Code](CIM111-S12019/notes/javascript/plugins/fancybox/)
+* [Fancybox JS Example](CIM111-S12019/notes/javascript/plugins/fancybox/)
 
 
 ### [Introduction to web platforms (June 20th)]()
