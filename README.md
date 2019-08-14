@@ -2,6 +2,16 @@
 
 ### Instructors
 
+Lenny Martinez Dominguez - [Class Site]()
+CIM111-34 Wolfson 2046 MoWe 12:20PM - 1:35PM [Class Site]()
+
+Eliot Rodriguez - [Class Site](https://github.com/eliot84/Weblab)
+CIM111-39 Wolfson 2046 MoWe 5:05PM - 6:20PM
+
+Zevensuy Rodriguez - [Class Site](https://github.com/zevenrodriguez/Weblab)
+CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
+CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
+
 # Resourses
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
@@ -16,9 +26,9 @@
 
 ### [Week 3 - Introduction to HTML ()](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
-### [Week 4 - HTML Cont. and CSS ()](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
+### [Week 4 - CSS ()](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
-### [Week 5 - CSS ()](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
+### [Week 5 - Media Formats and Responsiveness ()](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
 ### [Week 6 - Media Formats and Responsiveness ()](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
