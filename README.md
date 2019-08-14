@@ -3,13 +3,17 @@
 ### Instructors
 
 Lenny Martinez Dominguez - [Class Site]()
+
 CIM111-34 Wolfson 2046 MoWe 12:20PM - 1:35PM [Class Site]()
 
 Eliot Rodriguez - [Class Site](https://github.com/eliot84/Weblab)
+
 CIM111-39 Wolfson 2046 MoWe 5:05PM - 6:20PM
 
 Zevensuy Rodriguez - [Class Site](https://github.com/zevenrodriguez/Weblab)
+
 CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
+
 CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
 # Resourses
