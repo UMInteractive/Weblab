@@ -1,11 +1,12 @@
-# CIM111 Weblab - Summer I 2019
+# CIM111 Weblab - Fall 2019
 
-### Instructor: Zevensuy Rodriguez
-#### Class Time: TuWTh, 2:00-4:00pm
-#### Class Site: https://github.com/zevenrodriguez/CIM111
-#### Office: Francis L. Wolfson Building 2022
-#### Office Hours: https://calendly.com/zevenrodriguez
-#### Email: zevenrodriguez@miami.edu
+### Instructor
+
+##### Zevensuy Rodriguez - [Class Site](https://github.com/zevenrodriguez/Weblab)
+
+CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
+
+CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
 # Resourses
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
@@ -15,45 +16,42 @@
 
 ## Calendar
 
-### [Introduction to Web (May 21st )](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
+### [Week 1 - Introduction to Web (Aug 19th – 22nd)](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
 
-### [Setting up your environment (May 22nd)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+### [Week 2 -Setting up your environment (Aug 26th – 29th)](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
-### [Introduction to HTML (May 23rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
+### [Week 3 - Introduction to HTML (Sept 2nd – 5th) – Labor Day, Sept 2nd - No Class](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
-* [Html Code](CIM111-S12019/notes/html/)
+### [Week 4 - CSS (Sept 9th – 12th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
-### [CSS (May 28th – 29th)](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
+### [Week 5 - Media Formats and Responsiveness (Sept 16th – 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
-* [CSS Code](CIM111-S12019/notes/css/)
+### [Week 6 - Layouts and Grid (Sept 23rd – 26th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
 
-### [Media Formats and Responsiveness (May 30th)](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
+### [Week 7 - Responsive Website Lab (Sept 30th – Oct 3rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
-* [Media Query with External Stylesheet Code](CIM111-S12019/notes/layout/indexWithQuery.html)
+### [Week 8 - Intro to Javascript/jQuery (Oct 7th – 10th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Layouts and Grid (June 4th – 5th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
+### [Week 9 - Javascript Continued (Oct 14th – 17th) – Fall break, Oct 17th – 20th No Class](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-* [Simple Layout Code](CIM111-S12019/notes/layout/index.html)
-* [Layout with Nav Code](CIM111-S12019/notes/layout/indexWithNav.html)
-* [Grid Examples](CIM111-S12019/notes/grid/)
+### [Week 10 - jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
+### [Week 11 – Project Proposal (Oct 28th – 31st)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#creative-brief-wireframe-inspirations)
 
-### [Responsive Website Workday (June 6th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+### [Week 12 – Marketing Workshop & Web Platforms (Nov 4th – 7th)](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
-### [Intro to Javascript/jQuery (June 11th – 13th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+### [Week 13 – Final Project Lab (Nov 11th – 14th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-* [Grid Examples](CIM111-S12019/notes/javascript/)
+### [Week 14 – Final Project Lab (Nov 18th – 21st)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-### [jQuery plugin (June 18th – 19th)](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
+### Thanksgiving (Nov 23rd – Dec 1st)
 
-* [Lettering JS Example](CIM111-S12019/notes/javascript/plugins/letteringjs/)
-* [Fancybox JS Example](CIM111-S12019/notes/javascript/plugins/fancybox/)
+### [Week 15 –  Final Project Lab (Dec 2nd)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
+## Final Due:
 
-### [Introduction to web platforms (June 20th)]()
+### Zevensuy Rodriguez
 
-### [Project Proposal & Marketing Workshop (June 20th)](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
+CIM111-32 Friday Dec 6th 2:00-4:30PM
 
-### [Final Project Lab (June 25th – 26th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
-
-## [Final Due (June 28th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
+CIM111-R Tuesday Dec 10th 5:00-7:30PM
