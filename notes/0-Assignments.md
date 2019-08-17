@@ -1,25 +1,12 @@
 
-# Github Setup Assignment
+# Uploading HW to Github
 
 Using the repository we created in class.
 
-1. Create a hw folder in your CIM111 repository folder.
-   * For each assignment create a folder.
-2. Create an index.html file in your hw folder.
-   * All assignments must be linked to this page.
-     * In your index.html page include:
-       * Your name in an h1 tag
-       * List of links to assignments
-         * Use an ordered or unordered list
-         * Place an a tag in your list element with the correct link to your assignments.
-3. When you are done making changes and throughout the creation of your assignment save your work.         
-4. Make sure your github tab is visible
-   * *View => Toggle Git Tab*
-5. Click *Stage all*
-6. Write *Commit Message*
-7. Click *Commit to master*
-8. Find and Click the up and down arrows on the bottom right.
-9. Click *Push*
+![Put the Homework Files in Folder](../slides/homework.jpg)
+![Commit the Changes and Push](../slides/commit.jpg)
+![Go to your repository on Gihub.com](../slides/gotogithub.jpg)
+![Visit your uploaded document](../slides/githublink.jpg)
 
 *If you make any additional changes please make sure to save and upload your assignment again*
 
