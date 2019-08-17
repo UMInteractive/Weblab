@@ -2,7 +2,7 @@
 
 ### Instructors
 
-##### Lenny Martinez Dominguez - [Class Site]()
+##### Lenny Martinez Dominguez - [Class Site](https://github.com/lennymartinez/Weblab)
 
 CIM111-34 Wolfson 2046 MoWe 12:20PM - 1:35PM
 
