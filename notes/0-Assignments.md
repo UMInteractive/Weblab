@@ -45,15 +45,15 @@ Folder Structure
 # HTML/CSS Assignment
 
 Style your Resume using CSS styling elements
-* Create 2 links
- * Set the color of the links and remove the underline. - 10 points
- * Style :hover effect. - 10 points
-* Use one or two custom fonts - 10 points
+* Style 2 links
+  * Set the color of the links and remove the underline. - 10 points
+  * Style :hover effect. - 10 points
+* Use atleast one custom fonts - 10 points
 * Make sure you use an external stylesheet using the <link> tag. - 10 Points
 * Style 2 elements (ie p, b, address, etc) - 10 points
 * Create and use 5 id - 25 points
 * Create and use 2 classes, use the classes more than once - 20 points
-  * Explore a new CSS Property: Find a property from this [list (Mozilla CSS Reference)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) and use it in at least one id or class
+* Explore a new CSS Property: Find a property from this [list (Mozilla CSS Reference)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) and use it in at least one id or class
 * Make sure you validate your work ([css validator](https://jigsaw.w3.org/css-validator/), [html validator](https://validator.w3.org/)) - 5 points
 
 # Responsive Site
