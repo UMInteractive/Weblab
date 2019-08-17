@@ -36,25 +36,25 @@ CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
 ### [Week 6 - Layouts and Grid (Sept 23rd – 26th)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
 
-### [Week 7 - Responsive Website Lab (Sept 30th – Oct 3rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
+### [Week 7 - Responsive Website Lab (Sept 30th – Oct 3rd)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
-### [Week 8 - Intro to Javascript/jQuery (Oct 7th – 10th)]()
+### [Week 8 - Intro to Javascript/jQuery (Oct 7th – 10th)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 9 - Javascript Continued (Oct 14th – 17th) – Fall break, Oct 17th – 20th No Class]()
+### [Week 9 - Javascript Continued (Oct 14th – 17th) – Fall break, Oct 17th – 20th No Class](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 10 - jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+### [Week 10 - jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
-### [Week 11 – Project Proposal (Oct 28th – 31st)](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+### [Week 11 – Project Proposal (Oct 28th – 31st)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#creative-brief-wireframe-inspirations)
 
 ### [Week 12 – Marketing Workshop & Web Platforms (Nov 4th – 7th)](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
-### [Week 13 – Final Project Lab (Nov 11th – 14th)]()
+### [Week 13 – Final Project Lab (Nov 11th – 14th)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-### [Week 14 – Final Project Lab (Nov 18th – 21st)]()
+### [Week 14 – Final Project Lab (Nov 18th – 21st)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
 ### Thanksgiving (Nov 23rd – Dec 1st)
 
-### [Week 15 –  Final Project Lab (Dec 2nd)]()
+### [Week 15 –  Final Project Lab (Dec 2nd)](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
 ## Final Due:
 ### Lenny Martinez Dominguez
