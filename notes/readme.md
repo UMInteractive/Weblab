@@ -4,6 +4,8 @@
 
 ### [Setting up your environment](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
+### [Github](https://github.com/UMInteractive/Weblab/blob/master/notes/Github.md)
+
 ### [Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
 ### [CSS](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
