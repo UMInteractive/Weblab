@@ -4,7 +4,7 @@
 
 ##### Lenny Martinez Dominguez - [Class Site]()
 
-CIM111-34 Wolfson 2046 MoWe 12:20PM - 1:35PM [Class Site]()
+CIM111-34 Wolfson 2046 MoWe 12:20PM - 1:35PM
 
 ##### Eliot Rodriguez - [Class Site](https://github.com/eliot84/Weblab)
 
