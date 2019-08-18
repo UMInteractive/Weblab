@@ -1,17 +1,21 @@
 # CIM111 Weblab - Fall 2019
 
-### Instructor
+#### CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
+#### CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
-##### Zevensuy Rodriguez - [Class Site](https://github.com/zevenrodriguez/Weblab)
+### Instructor - Zevensuy Rodriguez
 
-CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
+* Email: zevenrodriguez@miami.edu
+* Office UM School of Communication Francis L. Wolfson Building 2nd Fl Room 2014
+* Office Hours
+  * To sign up for office hours please visit https://calendly.com/zevenrodriguez
 
-CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
 # Resourses
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
+*All Assignments to be submitted through Microsoft Teams*
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 ## Calendar
