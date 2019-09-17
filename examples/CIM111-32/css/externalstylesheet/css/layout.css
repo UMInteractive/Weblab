@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka|Dancing+Script:400,700&display=swap');
+
+body{
+  background-color: blue;
+  background-color: PapayaWhip;
+  background-color: #7fff00; /* Hexidecimal */
+  /* rgb color r: 0-255 g: 0-255 b:0-255 */
+  background-color: rgb(255,0,0); /* red */
+  background-color: rgb(255,255,255); /* white */
+  background-color: rgb(0,0,0); /* black */
+  background-color: DarkSeaGreen;
+}
+
+section{
+  background-color: white;
+  background-color: rgba(255,255,255,0.5); /* white with a 50% opacity*/
+}
+
+h1{
+  color: orange;
+}
+
+h3{
+  color: white;
+}
+
+h3 em{
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+li{
+  font-size: 20px;
+  list-style: circle;
+}
+
+ul li{
+  list-style: none;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+}
+
+a{
+  color: grey;
+  text-decoration: none; /* removes underline */
+}
+
+a:hover{
+  background-color: purple;
+}
+
+a:visited{
+  color: green;
+}
+/* # = id */
+#name{
+  text-align: center;
+  font-family: 'Chilanka', cursive;
+}
+
+.underline{
+  text-decoration: underline;
+  font-weight: bold;
+}

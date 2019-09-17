@@ -8,7 +8,7 @@
     <meta name="keywords" content="basic website">
 
     <style>
-
+      @import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Indie+Flower&display=swap');
       body{
         background-color: blue;
         background-color: LightGoldenrodYellow;
@@ -28,10 +28,13 @@
 
       h1{
         color: orange;
+        font-family: 'Dancing Script', cursive;
       }
 
       h3{
         color: #ffffff;
+        font-family: 'Dancing Script', cursive;
+        font-weight: 700; /* Bolder dancing script */
       }
 
       h3 em{
@@ -49,16 +52,21 @@
         list-style: none;
       }
 
+      #centerName{
+        text-align: center;
+      }
 
-
-
+      .bolder{
+      font-weight: bolder;
+      font-size: 20px;
+      }
 
     </style>
 </head>
 
 <body>
   <header>
-        <h1>Zevensuy Rodriguez</h1>
+        <h1 id="centerName">Zevensuy Rodriguez</h1>
     </header>
     <main>
         <br>
@@ -77,7 +85,7 @@
             <h3><em>Lecturer, University of Miami, School of Communication</em></h3>
             <h5>Classes</h5>
             <ul>
-                <li>Web Lab</li>
+                <li class="bolder">Web Lab</li>
                 <li>Intro to Creative Coding</li>
             </ul>
 
@@ -95,7 +103,7 @@
             <article>
             <h5><b>Stephanie Rothenberg</b></h5>
             <h3>Garden of Virtual Kinship</h3>
-            <p>The Garden of Virtual Kinship is a telematic garden, both real and virtual, whose lifeline directly correlates to monetary exchanges between the developed and developing world.</p>
+            <p>The Garden of <span class="bolder"> Virtual Kinship </span> is a telematic garden, both real and virtual, whose lifeline directly correlates to monetary exchanges between the developed and developing world.</p>
             <a id="links" href="http://howlinwolves.com/projects/gardenofvirtualkinship.html">More info</a>
             </article>
 
