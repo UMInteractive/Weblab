@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Indie+Flower&display=swap');
+
+body{
+  background-color: blue;
+  background-color: LightGoldenrodYellow;
+  background-color: #008b8b; /* Hexidecimal */
+  /* comment */
+  /* rgb color red: 0-255 green: 0-255 blue: 0-255 */
+  background-color: rgb(255,0,0); /* red */
+  background-color: rgb(255,255,255); /* white */
+  background-color: rgb(0,0,0); /* black */
+  background-color: DarkSalmon;
+}
+
+section{
+  background-color: white;
+  background-color: rgba(255,255,255,0.5); /* white with a 50% opacity */
+}
+
+h1{
+  color: orange;
+  font-family: 'Dancing Script', cursive;
+}
+
+h3{
+  color: #ffffff;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700; /* Bolder dancing script */
+}
+
+h3 em{
+  font-family: sans-serif;
+  color: black;
+  text-decoration: underline;
+}
+
+li{
+  font-size: 20px;
+  list-style: circle;
+}
+
+ul li{
+  list-style: none;
+}
+
+/* # for id, use once per document */
+#centerName{
+  text-align: center;
+}
+/* . for class, use many times per document */
+.bolder{
+font-weight: bolder;
+font-size: 20px;
+}
+
+a{
+  color: green;
+  text-decoration: none;
+}
+
+a:visited{
+  color: aqua;
+}
+
+a:hover{
+  background-color: red;
+  font-style: italic;
+}
