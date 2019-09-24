@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Box Model</title>
+    <style>
+      header{
+        background-color: green;
+        width: 920px;
+        height: 100px;
+        padding: 20px 20px 20px 20px; /* top right bottom left */
+
+        border-width: 0px 0px 5px 0px;/* top right bottom left */
+        border-color: black;
+        border-style: solid;
+
+        margin: 10px auto 30px auto; /* top right bottom left */
+        margin: 0 auto; /* top and bottom, right and left */
+        margin-top: -10px;
+
+      }
+      main{
+        background-color: yellow;
+        width: 910px; /* width adjusted for padding and border*/
+        /* height: 100px; */
+        height: auto; /*height auto automatically adjusts the height of your container based on content */
+        padding: 20px; /* add inner spacing 20px top, right, bottom, left */
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+
+        border-width: 5px;
+        border-style: dashed;
+        border-color: rgb(0,127,0);
+
+        /* Margin adjusts spacing around container, setting left and right to auto, centers container, margin auto only works if you have a width dimension */
+        margin-top: 10px;
+        margin-right: auto;
+        margin-bottom: 20px;
+        margin-left: auto;
+
+      }
+      footer{
+        background-color: green;
+        width: 960px;
+        height: 100px;
+        /* height: auto; if no content is in container, the box will collapse on itself, or disappear */
+
+        margin: 0 auto;
+
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Header</h1>
+    </header>
+    <main>
+      <h1>Main</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </main>
+    <footer>
+      <!-- <h1>footer</h1> -->
+    </footer>
+
+  </body>
+</html>
