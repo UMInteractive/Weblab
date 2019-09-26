@@ -7,7 +7,8 @@
       header{
         background-color: teal;
         width: 920px; /* remember to adjust the width according to the padding */
-        height: 100px;
+        /* height: 100px; */
+        height: auto;
         padding: 20px 20px 20px 20px; /* top right bottom left */
 
         border-width: 0px 0px 10px 0px; /* top right bottom left */
@@ -15,7 +16,7 @@
         border-style: solid;
 
         margin: 0 auto; /* top and bottom, right and left */
-        margin-top: -10px; /* negative numbers can be used to close gaps */ 
+        margin-top: -10px; /* negative numbers can be used to close gaps */
       }
       main{
         background-color: pink;
@@ -45,16 +46,90 @@
         width: 960px;
         height: 50px;
         /* if height is set to auto and the container has no content the box will collapse and not appear */
+        margin: 0 auto;
       }
+
+      nav{
+        background-color: lightblue;
+        width: 320px;
+        margin: 0 auto;
+
+        border-width: 5px; /* adds border on all sides */
+        border-style: dashed;
+        border-color: purple;
+      }
+
+      nav ul{
+
+      }
+
+      nav ul li{
+        list-style: none;
+        display: inline-block;
+        margin-right: 20px;
+        padding: 5px;
+      }
+
+      nav ul li a{
+        color: white;
+        text-decoration: none;
+      }
+
+      nav ul li:hover{
+        background-color: gray;
+      }
+
+      section img{
+        width: 455px;
+        display: inline-block;
+      }
+
+      section p{
+        width: 455px;
+        display: inline-block;
+        vertical-align: top;
+      }
+
     </style>
   </head>
   <body>
     <header>
       <h1>Header</h1>
+
+      <nav>
+        <ul>
+          <li>
+            <a href="">Home</a>
+          </li>
+          <li>
+            <a href="">About Me</a>
+          </li>
+          <li>
+            <a href="">Hobbies</a>
+          </li>
+        </ul>
+      </nav>
+
     </header>
     <main>
       <h1>Main</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      <section>
+
+        <img src="https://farm5.staticflickr.com/4790/39989463334_2385efa10f_b.jpg" alt="image1">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+      </section>
+
+      <section>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+        <img src="https://farm5.staticflickr.com/4790/39989463334_2385efa10f_b.jpg" alt="image2">
+
+      </section>
+
     </main>
     <footer>
       <!-- <h1>Footer</h1> -->

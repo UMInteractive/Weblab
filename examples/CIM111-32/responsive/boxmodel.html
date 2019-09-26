@@ -7,7 +7,8 @@
       header{
         background-color: green;
         width: 920px;
-        height: 100px;
+        /* height: 100px; */
+        height: auto;
         padding: 20px 20px 20px 20px; /* top right bottom left */
 
         border-width: 0px 0px 5px 0px;/* top right bottom left */
@@ -50,19 +51,83 @@
         margin: 0 auto;
 
       }
+
+      nav{
+        background-color: lightblue;
+        width: 400px;
+        margin: 0 auto; /* */
+      }
+
+      nav ul{
+
+      }
+
+      nav ul li{
+        list-style: none;
+        display: inline-block;
+        margin-right: 20px;
+        padding: 10px;
+      }
+
+      nav ul li a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px
+      }
+
+      nav ul li:hover{
+        background-color: white;
+      }
+
+      section img{
+        width: 435px;
+        display: inline-block;
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+
+      section p{
+        width: 435px;
+        display: inline-block;
+        margin-left: 5px;
+        margin-right: 5px;
+        vertical-align: top;
+      }
+
     </style>
   </head>
   <body>
     <header>
-      <h1>Header</h1>
+      <h1 id="Home">Header</h1>
+      <nav>
+        <ul>
+          <li><a href="#Home">Home</a></li>
+          <li><a href="#Aboutme">About Me</a></li>
+          <li><a href="#Hobbies">Hobbies</a></li>
+        </ul>
+      </nav>
+
     </header>
     <main>
-      <h1>Main</h1>
+      <div>
+      <h1 id="Aboutme">Main</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+    <section>
+      <img src="https://live.staticflickr.com/2057/2077176100_48f2e74642_b.jpg" alt="image 1">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <section id="Hobbies">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <img src="https://live.staticflickr.com/2057/2077176100_48f2e74642_b.jpg" alt="image 2">
+
+    </section>
+
     </main>
     <footer>
       <!-- <h1>footer</h1> -->
     </footer>
-
+    <!-- "IMG_6808" by youngthousands is licensed under CC BY 2.0 https://search.creativecommons.org/photos/b88a7b14-72e3-469b-9b78-df2eeaaee0a3 -->
   </body>
 </html>
