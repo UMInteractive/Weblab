@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Grid Example</title>
+    <style media="screen">
+      header{
+        width: 960px;
+        height: 100px;
+        background-color: orange;
+        margin: 0 auto;
+      }
+
+      main{
+        width: 960px;
+        /* height: 500px; */
+        height: auto;
+        background-color: papayawhip;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+
+      footer{
+        width: 960px;
+        height: 100px;
+        background-color: orange;
+        margin: 0 auto;
+      }
+
+      #grid1{
+        width: 900px;
+        height: auto;
+        margin: 0 auto;
+        display: grid;
+        grid-template-rows: 300px;
+        /* grid-template-columns: 300px 300px 300px; before grid-column-gap */
+        grid-template-columns: 280px 300px 280px; /* fix grid-column-gap */
+        grid-column-gap: 20px;
+      }
+
+      #grid1 img{
+        width: 300px;
+      }
+
+
+      #grid2{
+        width: 900px;
+        height: auto;
+        margin: 0 auto;
+        display: grid;
+        grid-template-rows: 300px;
+        /* grid-template-columns: 300px 300px 300px; before grid-column-gap */
+        grid-template-columns: 280px 300px 280px; /* fix grid-column-gap */
+        grid-column-gap: 20px;
+      }
+
+      #grid2 section img{
+        width: 300px;
+      }
+
+      /*
+      #grid1Image{
+        width: 300px;
+      }
+      */
+
+      #grid3{
+        /* width: 600px; before column-gap */
+        width: 590px;
+        height: auto;
+        margin: 0 auto;
+        display: grid;
+        grid-template-rows: 1fr; /* A frame or fr size is determined by the size of the larges element */
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 10px;
+      }
+
+      #grid3 section img{
+        width: 300px;
+      }
+
+      #grid4{
+        width: 900px;
+        height: auto;
+        margin: 0 auto;
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 2fr; /* 2 columns, the second column is going to be 2 twice as large as the first */
+      }
+
+
+    </style>
+  </head>
+  <body>
+    <header>
+
+    </header>
+
+    <main>
+
+      <section id="grid1">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <img id="grid1Image" src="https://farm5.staticflickr.com/4442/36299068350_5275f6907d_b.jpg" alt="mochi ice cream">
+        <!-- "IMG_2896" by Neeta Lind is licensed under CC BY 2.0  https://search.creativecommons.org/photos/9db00836-7d37-49e3-aff4-5885babe5d8e -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </section>
+
+      <section id="grid2">
+        <section>
+          <h1>Mochi Flavors:</h1>
+          <ul>
+            <li>Chocolate</li>
+            <li>Macha</li>
+            <li>Strawberry</li>
+          </ul>
+        </section>
+        <section>
+          <img src="https://farm5.staticflickr.com/4442/36299068350_5275f6907d_b.jpg" alt="mochi ice cream">
+          <p>This picture is of mochi</p>
+        </section>
+
+        <section>
+          <h1>About Mochi</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </section>
+      </section>
+
+      <section id="grid3">
+        <section>
+          <img src="https://farm5.staticflickr.com/4442/36299068350_5275f6907d_b.jpg" alt="mochi ice cream">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </section>
+
+        <section>
+          <img src="https://farm5.staticflickr.com/4442/36299068350_5275f6907d_b.jpg" alt="mochi ice cream">
+          <p>More mochi</p>
+        </section>
+
+      </section>
+
+      <section id="grid4">
+        <h1>About mochi</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </section>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+  </body>
+</html>
