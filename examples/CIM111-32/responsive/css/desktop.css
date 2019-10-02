@@ -1,0 +1,117 @@
+header{
+  background-color: green;
+  width: 920px;
+  /* height: 100px; */
+  height: auto;
+  padding: 20px 20px 20px 20px; /* top right bottom left */
+
+  border-width: 0px 0px 5px 0px;/* top right bottom left */
+  border-color: black;
+  border-style: solid;
+
+  margin: 10px auto 30px auto; /* top right bottom left */
+  margin: 0 auto; /* top and bottom, right and left */
+  margin-top: -10px;
+
+}
+main{
+  background-color: yellow;
+  width: 910px; /* width adjusted for padding and border*/
+  /* height: 100px; */
+  height: auto; /*height auto automatically adjusts the height of your container based on content */
+  padding: 20px; /* add inner spacing 20px top, right, bottom, left */
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+
+  border-width: 5px;
+  border-style: dashed;
+  border-color: rgb(0,127,0);
+
+  /* Margin adjusts spacing around container, setting left and right to auto, centers container, margin auto only works if you have a width dimension */
+  margin-top: 10px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+
+}
+footer{
+  background-color: green;
+  width: 960px;
+  height: 100px;
+  /* height: auto; if no content is in container, the box will collapse on itself, or disappear */
+
+  margin: 0 auto;
+
+}
+
+nav{
+  background-color: lightblue;
+  width: 400px;
+  margin: 0 auto; /* */
+}
+
+nav ul{
+
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px
+}
+
+nav ul li:hover{
+  background-color: white;
+}
+
+#grid1{
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  display: grid;
+  grid-template-rows: 125px;
+  grid-template-columns: 200px 580px;
+  grid-column-gap: 20px;
+
+}
+
+#grid2{
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  display: grid;
+  grid-template-rows: 300px;
+  grid-template-columns: 390px 390px;
+  grid-column-gap: 20px;
+}
+
+#grid2 img{
+  width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+#Hobbies{
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 2fr;
+  grid-column-gap: 20px;
+
+}
+
+#Hobbies img{
+  width: 520px;
+
+}
