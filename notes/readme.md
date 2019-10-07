@@ -20,13 +20,16 @@
 
 ### [Marketing Workshop](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
-## Resourses
+## Resources
 
 ### [Web Colors](https://github.com/UMInteractive/Weblab/blob/master/notes/WebColors.md)
 
-### [Copywrite](https://github.com/UMInteractive/Weblab/blob/master/notes/Wordpress.md)
+### [Copywrite](https://github.com/UMInteractive/Weblab/blob/master/notes/Copywrite.md)
 
 ### [Domains](https://github.com/UMInteractive/Weblab/blob/master/notes/8-Domains.md)
+
+### [Wordpress](https://github.com/UMInteractive/Weblab/blob/master/notes/Wordpress.md)
+
 
 <!-- ### []()
 
