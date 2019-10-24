@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Interaction example</title>
+
+    <style media="screen">
+      img{
+        width: 300px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 id="colorChange">Click here to change background color</h1>
+    <h1 id="colorChange2">Click here to change background to orange</h1>
+
+    <ul>
+      <li id="info1" class="info">info 1</li>
+      <li id="info2" class="info">info 2</li>
+      <li id="info3" class="info">info 3</li>
+    </ul>
+    <p id="addInfo"></p>
+
+    <!-- Absolute/Remote Link: Choose one or the other -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Relative Link: Choose one or the other -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //All code goes in here
+        $("#colorChange").click(function(){
+
+          $("body").css("background-color", "blue");
+
+        });//end of colorChange.click
+
+        $("#colorChange2").click(function(){
+          $("body").css("background-color", "orange");
+
+        });//end of colorChange2.click
+
+
+         $("#info1").mouseenter(function(){
+          $("#addInfo").html("Hello all");
+        });//end of info1 mouseenter
+
+
+        $("#info2").mouseenter(function(){
+
+          $("#addInfo").html("<strong>this is bold</strong>");
+        });//end of info2 mouseenter
+
+        $("#info3").mouseenter(function(){
+
+          $("#addInfo").html("<img src='https://farm3.staticflickr.com/2329/1753895961_a7d6bf6fd0_b.jpg' alt='image 1'>");
+        });//end of info3 mouseenter
+
+        $("#info1").mouseleave(function(){
+          $("#addInfo").html("");
+        });
+
+        $(".info").mouseleave(function(){
+          $("#addInfo").html("");
+        });
+
+      });
+    </script>
+
+
+
+
+
+
+
+  </body>
+</html>

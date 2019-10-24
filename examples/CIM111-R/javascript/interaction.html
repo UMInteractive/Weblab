@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Interaction</title>
+
+    <style media="screen">
+      img{
+        width: 300px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 id="changeBackground">Click here to change background color</h1>
+    <h1 id="changeOrange">Click here to change background color to orange</h1>
+
+    <ul>
+      <li id="item1" class="item">item 1</li>
+      <li id="item2" class="item">item 2</li>
+      <li id="item3" class="item">item 3</li>
+    </ul>
+
+    <p id="changeText"></p>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //All code goes in here
+
+        /*
+        Multi
+        line
+        comment
+        */
+
+        $("#changeBackground").click(function(){
+
+          $("body").css("background-color", "purple");
+
+        });//end of changeBackground click
+
+        $("#changeOrange").click(function(){
+
+            $("body").css("background-color","orange");
+        }); // end of changeOrange
+
+
+        $("#item1").mouseenter(function(){
+
+          $("#changeText").html("Hello there!");
+
+        }); //end of item1 mouseenter
+
+        $("#item2").mouseenter(function(){
+
+            $("#changeText").html("<strong>this is bold</strong>");
+        });
+
+        $("#item3").mouseenter(function(){
+
+          $("#changeText").html("<img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9570cc59247105.5a1b7bddc972b.jpg' alt='image 1'>");
+
+        });
+
+        $("#item1").mouseleave(function(){
+
+          $("#changeText").html("");
+
+        });
+
+        $(".item").mouseleave(function(){
+
+          $("#changeText").html("");
+        });
+
+
+
+
+
+
+
+      });//end of document ready
+    </script>
+
+  </body>
+</html>
