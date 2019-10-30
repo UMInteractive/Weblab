@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Plugins Example</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <style media="screen">
+      img{
+        width: 200px;
+      }
+      .char1{
+        color: red;
+      }
+      .char6{
+        font-family: sans-serif;
+      }
+
+      .word3{
+        font-size: 20px;
+      }
+      .line2{
+        background-color: blue;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 class="fancy_title">Some Title</h1>
+    <p id="words">This is split into words</p>
+    <p id="sentence">This is split by <br> the break tag</p>
+
+    <a data-fancybox="gallery" href="https://farm1.staticflickr.com/760/21749527779_2cddf074cc_b.jpg"><img src="https://farm1.staticflickr.com/760/21749527779_2cddf074cc_b.jpg"></a>
+    <a data-fancybox="gallery" href="https://live.staticflickr.com/3031/2760159467_28fa727d72_b.jpg"><img src="https://live.staticflickr.com/3031/2760159467_28fa727d72_b.jpg"></a>
+
+    <!-- Step 1: Jquery Script -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+    <!-- Step 2: Fancy Box Plugin Script -->
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <!-- Step2 :  lettering plugin script-->
+    <script type="text/javascript" src="js/jquery.lettering-0.6.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+	         $(".fancy_title").lettering();
+           $("#words").lettering("words");
+           $("#sentence").lettering("lines");
+	        });
+    </script>
+
+  </body>
+</html>

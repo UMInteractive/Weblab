@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Show Hide Example</title>
+
+    <style media="screen">
+      .grid{
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 2fr;
+      }
+
+      img{
+        width: 300px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="section1Show">Section 1 Show</h1>
+    <h1 id="section1Hide">Section 1 Hide</h1>
+    <h1 id="section1Toggle">Section 1 Toggle</h1>
+
+    <section id="section1" class="grid">
+      <h2>Section 1 info</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <p id="section2mouse">Mouseover to show and hide section 2</p>
+
+    <section id="section2" class="grid">
+      <h2>Section 2 info</h2>
+      <img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9570cc59247105.5a1b7bddc972b.jpg' alt='image 1'>
+    </section>
+
+
+
+    <h1 id="openSections">Open all sections</h1>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+
+          $("#section1").hide();
+          $(".grid").hide(); // this will hide all of my sections that have a .grid class
+
+          $("#section1Show").click(function(){
+            $("#section1").show();
+          });
+
+          $("#section1Hide").click(function(){
+            $("#section1").hide();
+          });
+
+          $("#section1Toggle").click(function(){
+            $("#section1").toggle(1000);// add a number to toggle, show, and hide it will animate over time
+          });
+
+          $("#section2mouse").mouseenter(function(){
+            $("#section2").show();
+          });
+
+          $("#section2mouse").mouseleave(function(){
+            $("#section2").hide();
+          });
+
+          $("#openSections").click(function(){
+            //$(".grid").hide();
+            $(".grid").toggle();
+          });
+
+      });
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Show Hide Example</title>
+
+    <style media="screen">
+      .grid{
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 2fr;
+      }
+    </style>
+
+  </head>
+  <body>
+
+    <h1 id="section1show">Click to show section 1</h1>
+    <h1 id="section1hide">Click to hide section 1</h1>
+    <h1 id="section1toggle">Click to toggle section 1</h1>
+
+    <section class="grid" id="section1">
+      <h2>Section 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <h1 id="section2mouse">mouseover to show and hide</h1>
+
+    <section class="grid" id="section2">
+      <h2>Section 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </section>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+
+        $("#section1").hide();
+        $(".grid").hide();
+
+        $("#section1show").click(function(){
+          $("#section1").show();
+        });
+
+        $("#section1hide").click(function(){
+
+          $("#section1").hide();
+        });
+
+        $("#section2mouse").mouseenter(function(){
+          $("#section2").show();
+        });
+
+        $("#section2mouse").mouseleave(function(){
+          $("#section2").hide();
+        });
+
+        $("#section1toggle").click(function(){
+        //  $("#section1").toggle(1000); // curtains top left to bottom right
+          $("#section1").slideToggle(1000); // curtains top to bottom
+        });
+
+      });
+      </script>
+
+
+
+
+
+
+    </body>
+    </html>
