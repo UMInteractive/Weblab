@@ -201,8 +201,17 @@ In your final project folder, make sure you include the following information
 
 ### ONLINE MARKETING AND SEO PLAN (25 POINTS)
 
-  Come up with a marketing plan for your website. Explain your business rationale and how you are going to reach your target audience? Based on your objectives, come up with a marketing recommendation for your site. Choose either twitter, google adwords, or facebook. List what keywords are you going to buy? What is the duration of your campaign and total cost?
+Come up with a marketing plan for your website. Your goal is to promote your website. Using a budget of $1000, explain your business rationale. Choose either [twitter](https://ads.twitter.com/), [google adwords](https://ads.google.com/home/), or [facebook](https://www.facebook.com/business/) to create your campaign.
 
-  Include screenshots of your campaign as well as your write up in a blog post or add in your hw index.
+##### Thank about the following questions:
+* Create a pdf or word doc for your submission
+* What areas/locations are you target and why?
+* List what keywords are you going to use and buy?
+* What is the duration of your campaign? Try to explain your reasoning on the duration. Is there an event, etc?.  
+* Include screenshots of your campaign
+
+![Google Ads](../images/googleads.png)
 
 ### Google analytics on your site (25 POINTS)
+
+Add the Google Analytics script tag to your index.html
