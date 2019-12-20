@@ -2,6 +2,13 @@
 
 ### [Slides](https://docs.google.com/presentation/d/1ycveBTmap2rG-v4u8br47lPXIT2Ay9yLnSyEOOdNJk8/edit?usp=sharing)
 
+### Basic Tag
+
+![Basic Tag]('..images/BasicTag.jpg')
+
+
+### Getting Started
+
 ```html
 
 <!DOCTYPE html>
@@ -20,55 +27,27 @@
 </html>
 
 ```
-
-## HTML & CSS Related Chapters
-
-Chapters 1-5
 
 ## [HTML Validator](https://jsonformatter.org/html-validator)
 
-### Important HTML Tags
-
-For an in depth overview of HTML5 tags visit the [HTML5 Doctor](http://html5doctor.com/)
-
-
-#### Head
+### For an in depth overview of HTML5 tags visit the [HTML5 Doctor](http://html5doctor.com/)
 
 [doctype](http://html5doctor.com/element-index/#doctype) - Defines the document type
-```html
-<!DOCTYPE HTML>
-```
 
 [html](http://html5doctor.com/element-index/#html) - Defines an HTML document
-```html
-<html></html>
-```
 
 [head](http://html5doctor.com/element-index/#head) - Defines information about the document
-```html
-<!DOCTYPE html>
-
-<html>
-
-   <head>
-       <title>My super awesome website!!!</title>
-   </head>
-
-   <body>
-       <h1>Hello World!!!!</h1>
-   </body>
-
-
-</html>
-```
 
 [title](http://html5doctor.com/element-index/#title) - Defines a title for the document
 The title is visible when someone bookmarks a page, on the tab and as the main link in Google's search results page.
 
-```html
-<title>This is the title of the page</title>
-```
+[body](http://html5doctor.com/element-index/#body) - Defines the document's body
 
+#### Comments
+
+[```<!-- ... -->```](http://www.w3schools.com/tags/tag_comment.asp)  - Defines a comment
+
+### Head-Level Tags
 
 [link](http://html5doctor.com/element-index/#link) - Defines the relationship between a document and an external resource
 
@@ -80,33 +59,13 @@ The title is visible when someone bookmarks a page, on the tab and as the main l
 
 [noscript](http://html5doctor.com/element-index/#noscript) - Defines an alternate content for users that do not support client-side scripts
 
-#### Comments
+### Body-Level Tags
 
-[```<!-- ... -->```](http://www.w3schools.com/tags/tag_comment.asp)  - Defines a comment
-
-#### Sections
-
-[body](http://html5doctor.com/element-index/#body) - Defines the document's body
-
-[article](http://html5doctor.com/element-index/#article) - Defines an article
-
-[nav](http://html5doctor.com/element-index/#nav) - Defines navigation links
-
-[aside](http://html5doctor.com/element-index/#aside) - Defines content aside from the page content section
-
-[header](http://html5doctor.com/element-index/#header) - Defines a header for a document or section
-
-[footer](http://html5doctor.com/element-index/#footer) - Defines a footer for a document or section
+#### Basic Body tags
 
 [h1-h6](http://html5doctor.com/element-index/#h1-h6) - Defines HTML headings
 
-[main](http://html5doctor.com/element-index/#main) - Specifies the main content of a document
-
-[address](http://html5doctor.com/element-index/#address) - Defines contact information for the author/owner of a document/article
-
 [br](http://html5doctor.com/element-index/#br) - Inserts a single line break
-
-#### Grouping
 
 [p](http://html5doctor.com/element-index/#p) - Defines a paragraph
 
@@ -118,57 +77,9 @@ The title is visible when someone bookmarks a page, on the tab and as the main l
 
 [li](http://html5doctor.com/element-index/#li) - Defines a list item
 
-[figure](http://html5doctor.com/element-index/#figure) - Specifies self-contained content
-
-[figcaption](http://html5doctor.com/element-index/#figcaption) - Defines a caption for a ```<figure>``` element
-
-[div](http://html5doctor.com/element-index/#div) - Defines a section with no special meaning in a document. Often used for children of a defined parent.
-
-#### Tables
-
-[table](http://html5doctor.com/element-index/#table) - Defines a table
-
-[tr](http://html5doctor.com/element-index/#tr) - Defines a row in a table
-
-[th](http://html5doctor.com/element-index/#th) -Defines a header cell in a table
-
-[td](http://html5doctor.com/element-index/#td) - Defines a cell in a table
-
-#### Forms
-
-[form](http://html5doctor.com/element-index/#form) - Defines an HTML form for user input
-
-[fieldset](http://html5doctor.com/element-index/#fieldset) - Groups related elements in a form
-
-[label](http://html5doctor.com/element-index/#label) - Defines a label for an <input> element
-
-[input](http://html5doctor.com/element-index/#input) -Defines an input control
-
-[button](http://html5doctor.com/element-index/#button) - Defines a clickable button
-
-[select](http://html5doctor.com/element-index/#select) - Defines a drop-down list
-
-[option](http://html5doctor.com/element-index/#option) - Defines an option in a drop-down list
-
-[textarea](http://html5doctor.com/element-index/#textarea) - Defines a multiline input control (text area)
-
-####Embedded
+[address](http://html5doctor.com/element-index/#address) - Defines contact information for the author/owner of a document/article
 
 [img](http://html5doctor.com/element-index/#img) - Represents an image
-
-[iframe](http://html5doctor.com/element-index/#iframe) - Defines an inline frame
-
-[embed](http://html5doctor.com/element-index/#embed) - Defines a container for an external (non-HTML) application
-
-[object](http://html5doctor.com/element-index/#object) - Defines an embedded object
-
-[video](http://html5doctor.com/element-index/#video) - Defines a video or movie
-
-[audio](http://html5doctor.com/element-index/#audio) - Defines sound content
-
-[canvas](http://html5doctor.com/element-index/#canvas) - Used to draw graphics, on the fly, via scripting (usually JavaScript)
-
-#### Text-level
 
 [a](http://html5doctor.com/element-index/#a) - Defines a hyperlink
 
@@ -182,17 +93,48 @@ The title is visible when someone bookmarks a page, on the tab and as the main l
 
 [u](http://html5doctor.com/element-index/#u) - Underline
 
-[s](http://html5doctor.com/element-index/#s) - Defines text that is no longer correct
 
-[small](http://html5doctor.com/element-index/#smaller) - Defines smaller text
+#### Tables
 
-[abbr](http://html5doctor.com/element-index/#abbr) - Defines an abbreviation or an acronym
+[table](http://html5doctor.com/element-index/#table) - Defines a table
 
-[q](http://html5doctor.com/element-index/#q) - Defines a short quotation
+[tr](http://html5doctor.com/element-index/#tr) - Defines a row in a table
 
-[cite](http://html5doctor.com/element-index/#cite) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
+[th](http://html5doctor.com/element-index/#th) -Defines a header cell in a table
 
-*From html5 doctor*
+[td](http://html5doctor.com/element-index/#td) - Defines a cell in a table
+
+
+
+#### Block-level vs Inline Elements
+
+A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+An inline-level element do not cause a line break.
+
+#### Sections Tags
+
+[div](http://html5doctor.com/element-index/#div) - Defines a section with no special meaning in a document. Often used for children of a defined parent.
+
+[section](http://html5doctor.com/element-index/#section) -  In this context, a section is a thematic grouping of content
+
+[article](http://html5doctor.com/element-index/#article) - Defines an article
+
+[aside](http://html5doctor.com/element-index/#aside) - Defines content aside from the page content section
+
+[header](http://html5doctor.com/element-index/#header) - Defines a header for a document or section
+
+[nav](http://html5doctor.com/element-index/#nav) - Defines navigation links
+
+[main](http://html5doctor.com/element-index/#main) - Specifies the main content of a document
+
+[footer](http://html5doctor.com/element-index/#footer) - Defines a footer for a document or section
+
+### SECTIONS VS ARTICLES
+
+Think of sections like chapters of a book. They all have something to do with each other. Articles are stories, blog posts, or piece that can stand on there own.
+
+#### [About Semantic Elements: Read Structural Semantic Elements and The Difference Between Sections and Articles](http://vanseodesign.com/web-design/html5-semantic-elements/)
 
 #### SPECIAL CHARACTERS
 
@@ -231,8 +173,6 @@ When a server opens a document that contains a relative link, it starts searchin
 For example, if in your index.html file you reference an image in a tag like above, the server looks for an images folder where the index.html is located. Then it finds the file inside that images folder.
 
 For more info [read](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
-
-
 
 ### Image Width and Height attributes
 
@@ -276,8 +216,56 @@ For more info [read](https://www.coffeecup.com/help/articles/absolute-vs-relativ
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-### SECTIONS VS ARTICLES
+## More HTML Tags
 
-Think of sections like chapters of a book. They all have something to do with each other. Articles are stories, blog posts, or piece that can stand on there own.
+#### Grouping
 
-#### [About Semantic Elements: Read Structural Semantic Elements and The Difference Between Sections and Articles](http://vanseodesign.com/web-design/html5-semantic-elements/)
+[figure](http://html5doctor.com/element-index/#figure) - Specifies self-contained content
+
+[figcaption](http://html5doctor.com/element-index/#figcaption) - Defines a caption for a ```<figure>``` element
+
+#### Forms
+
+[form](http://html5doctor.com/element-index/#form) - Defines an HTML form for user input
+
+[fieldset](http://html5doctor.com/element-index/#fieldset) - Groups related elements in a form
+
+[label](http://html5doctor.com/element-index/#label) - Defines a label for an <input> element
+
+[input](http://html5doctor.com/element-index/#input) -Defines an input control
+
+[button](http://html5doctor.com/element-index/#button) - Defines a clickable button
+
+[select](http://html5doctor.com/element-index/#select) - Defines a drop-down list
+
+[option](http://html5doctor.com/element-index/#option) - Defines an option in a drop-down list
+
+[textarea](http://html5doctor.com/element-index/#textarea) - Defines a multiline input control (text area)
+
+#### Media
+
+[iframe](http://html5doctor.com/element-index/#iframe) - Defines an inline frame
+
+[embed](http://html5doctor.com/element-index/#embed) - Defines a container for an external (non-HTML) application
+
+[object](http://html5doctor.com/element-index/#object) - Defines an embedded object
+
+[video](http://html5doctor.com/element-index/#video) - Defines a video or movie
+
+[audio](http://html5doctor.com/element-index/#audio) - Defines sound content
+
+[canvas](http://html5doctor.com/element-index/#canvas) - Used to draw graphics, on the fly, via scripting (usually JavaScript)
+
+#### Text-level
+
+[s](http://html5doctor.com/element-index/#s) - Defines text that is no longer correct
+
+[small](http://html5doctor.com/element-index/#smaller) - Defines smaller text
+
+[abbr](http://html5doctor.com/element-index/#abbr) - Defines an abbreviation or an acronym
+
+[q](http://html5doctor.com/element-index/#q) - Defines a short quotation
+
+[cite](http://html5doctor.com/element-index/#cite) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
+
+*From html5 doctor*
