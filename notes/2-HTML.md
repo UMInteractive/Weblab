@@ -4,7 +4,7 @@
 
 ### Basic Tag
 
-![Basic Tag]('../images/BasicTag.jpg')
+![Basic Tag](https://github.com/UMInteractive/Weblab/blob/master/images/BasicTag.jpg)
 
 
 ### Getting Started
