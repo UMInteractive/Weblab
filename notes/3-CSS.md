@@ -55,7 +55,39 @@ div {
 }
 ```
 
-CSS can be written using three methods:
+#### Common CSS Properties
+
+For a list of more properties visit the [mozilla css reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+###### Text
+
+* [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+* [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+* [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+* [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+* [text-declaration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+* [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+* [list-styles](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)
+* [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+* [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+* [text-indent](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
+
+
+
+###### Grid and Position
+
+* [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+* [border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)
+* [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+* [border-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color)
+* [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+* [margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+* [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+* [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+* [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+
+## CSS can be written using three methods:
 
 ### External Stylesheet
 
@@ -92,10 +124,8 @@ Inline styles are CSS declarations that affect one element only, contained withi
 ### Box Model
 
 ![Box Model](https://mdn.mozillademos.org/files/8685/boxmodel\-(3).png)
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-
-
-
 
 ## LOADING AN EXTERNAL FONT
 
@@ -163,34 +193,3 @@ The end result would look like:
 ```
 
 Complete documentation on how to embed and customize fonts can be found [here](https://developers.google.com/fonts/docs/getting_started).
-
-#### Common CSS Properties
-
-For a list of more properties visit the [mozilla css reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-###### Text
-
-* [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-* [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-* [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
-* [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
-* [text-declaration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
-* [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
-* [list-styles](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)
-* [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
-* [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
-* [text-indent](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
-
-
-
-###### Grid and Position
-
-* [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
-* [border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)
-* [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
-* [border-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color)
-* [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
-* [margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
-* [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
-* [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
-* [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
