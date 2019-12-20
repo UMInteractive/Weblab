@@ -28,8 +28,6 @@
 
 ```
 
-## [HTML Validator](https://jsonformatter.org/html-validator)
-
 ### For an in depth overview of HTML5 tags visit the [HTML5 Doctor](http://html5doctor.com/)
 
 [doctype](http://html5doctor.com/element-index/#doctype) - Defines the document type
@@ -93,6 +91,18 @@ The title is visible when someone bookmarks a page, on the tab and as the main l
 
 [u](http://html5doctor.com/element-index/#u) - Underline
 
+[span](http://html5doctor.com/element-index/#span) - An inline tag used together with attributes to style of give more context to content
+
+### Block-level vs Inline Elements
+
+A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+##### Examples: h1-h6, p, address, table, div, section, header, main, footer, etc.
+
+An inline-level element do not cause a line break.
+
+##### Examples: em, strong, span, img
+
 
 #### Tables
 
@@ -103,14 +113,6 @@ The title is visible when someone bookmarks a page, on the tab and as the main l
 [th](http://html5doctor.com/element-index/#th) -Defines a header cell in a table
 
 [td](http://html5doctor.com/element-index/#td) - Defines a cell in a table
-
-
-
-#### Block-level vs Inline Elements
-
-A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
-
-An inline-level element do not cause a line break.
 
 #### Sections Tags
 
@@ -269,3 +271,5 @@ For more info [read](https://www.coffeecup.com/help/articles/absolute-vs-relativ
 [cite](http://html5doctor.com/element-index/#cite) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
 
 *From html5 doctor*
+
+### When you are done building your page, run your code through the [HTML Validator](https://jsonformatter.org/html-validator)
