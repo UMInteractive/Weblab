@@ -1,9 +1,5 @@
 # CSS
 
-## HTML & CSS Related Chapters
-
-Pages 228-336
-
 [CSS Slides](https://docs.google.com/presentation/d/1uGclhzfMkr0daXyP56A07KdOZzSQPDhWK29lBRQZOKM/edit?usp=sharing)
 
 [CSS Reference](https://css-tricks.com/almanac/)
@@ -16,45 +12,6 @@ Pages 228-336
 
 
 CSS works by using selectors. Selectors are the ways you target elements on the page.
-
-CSS can be written using three methods:
-
-### External Stylesheet
-
-An external stylesheet is when you have your CSS written in a separate file with a .css extension, and you reference it from an HTML <link> element. This is the preferred method of loading your styles.
-
-```<link rel="stylesheet" type="text/css" href="mystyle.css">```
-
-### Internal Stylesheet (AVOID)
-
-An internal stylesheet is where you don't have an external CSS file, but instead place your CSS inside a <style> element, contained inside the HTML <head>. Use this only in single page sites or when you want to overwrite a linked stylesheet called before. The HTML would look like this:
-
-```html
-<head>
- <style>
-  p{
-   color: green;
-  }
-
- </style>
-
-<head>
-```
-
-### Inline Style (AVOID)
-
-Inline styles are CSS declarations that affect one element only, contained within a style attribute:
-
-```
-<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
-```
-
-## CSS Basics
-
-### Box Model
-
-![Box Model](https://mdn.mozillademos.org/files/8685/boxmodel\-(3).png)
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 
 ### The Declaration Block
 
@@ -97,6 +54,47 @@ div {
    color: green;
 }
 ```
+
+CSS can be written using three methods:
+
+### External Stylesheet
+
+An external stylesheet is when you have your CSS written in a separate file with a .css extension, and you reference it from an HTML <link> element. This is the preferred method of loading your styles.
+
+```<link rel="stylesheet" type="text/css" href="mystyle.css">```
+
+### Internal Stylesheet (AVOID)
+
+An internal stylesheet is where you don't have an external CSS file, but instead place your CSS inside a <style> element, contained inside the HTML <head>. Use this only in single page sites or when you want to overwrite a linked stylesheet called before. The HTML would look like this:
+
+```html
+<head>
+ <style>
+  p{
+   color: green;
+  }
+
+ </style>
+
+<head>
+```
+
+### Inline Style (AVOID)
+
+Inline styles are CSS declarations that affect one element only, contained within a style attribute:
+
+```
+<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
+```
+
+## CSS Basics
+
+### Box Model
+
+![Box Model](https://mdn.mozillademos.org/files/8685/boxmodel\-(3).png)
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+
+
 
 
 ## LOADING AN EXTERNAL FONT
