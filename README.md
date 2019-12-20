@@ -54,9 +54,15 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site]()
 
 ## Important Dates
 Jan 13 - CLASSES BEGIN
+
 Jan 20 - HOLIDAY (MARTIN LUTHER KING, JR. DAY)
+
 March 7-15 - SPRING RECESS
+
 March 25 - Last Day to Drop a Course
+
 April 24 - CLASSES END  (11:00 PM)
+
 April 25-April 28 - Reading Days
+
 April 29- May 6 - FINAL EXAMS
