@@ -4,7 +4,7 @@
 
 ### Basic Tag
 
-![Basic Tag]('..images/BasicTag.jpg')
+![Basic Tag]('../images/BasicTag.jpg')
 
 
 ### Getting Started
