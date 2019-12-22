@@ -14,6 +14,8 @@ Allows you to layout sections of your page. CSS grid looks at your content conta
 
 #### [Grid Example](https://codepen.io/uminteractive/pen/rNamzBy)
 
+![Grid](https://github.com/UMInteractive/Weblab/blob/master/images/grid.jpg)
+
 ```HTML
     <div class="grid1">
       <section>Grid 1 Section 1</section>
