@@ -193,3 +193,9 @@ The end result would look like:
 ```
 
 Complete documentation on how to embed and customize fonts can be found [here](https://developers.google.com/fonts/docs/getting_started).
+
+### IMPORT FROM ANOTHER CSS DOCUMENT
+
+```CSS
+@import "desktop.css";
+```
