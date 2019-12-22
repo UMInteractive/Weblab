@@ -12,7 +12,7 @@ Using inline-block it only affects the elements the display property is applied 
 
 Allows you to layout sections of your page. CSS grid looks at your content containers and places them in rows and columns you designate through a grid template. When a parent is set as a grid element, it counts the number of children and places them in order in the rows and columns.
 
-#### [Grid Example](https://codepen.io/uminteractive/pen/rNamzBy)
+#### [Grid Example](https://codepen.io/uminteractive/pen/abzWyvV)
 
 ![Grid](https://github.com/UMInteractive/Weblab/blob/master/images/grid.jpg)
 
