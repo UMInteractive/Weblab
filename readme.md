@@ -25,8 +25,7 @@
 * [Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
 * [Intro to HTML](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
 
-###
-* [Week 2 -Setting up your environment](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+### [Week 2 -Setting up your environment](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
 ### [Week 3 - Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
