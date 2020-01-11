@@ -62,8 +62,7 @@ Style your résumé using CSS styling elements.
 | Use at least one custom font                                                                                                                                                            |  10    |
 | Use an external stylesheet for your css with the `<link>` tag                                                                                                                           | 10     |
 | Style 2 elements (ex: `p`, `address`, `h1`, `b`)                                                                                                                                        | 10     |
-| Create and use 5 id                                                                                                                                                                     | 25     |
-| Create and use 2 classes more than once                                                                                                                                                 | 20     |
+| Create and use 5 classes more than once                                                                                                                                                 | 50     |
 | Explore a new CSS Property: Find a property from this [list](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), Mozilla CSS Reference, and use it in at least one id or class |        |
 | Validate your [html](https://validator.w3.org/) and [css](https://jigsaw.w3.org/css-validator/)                                                                                        | 5      |
 | **Total Points** | 100      |
