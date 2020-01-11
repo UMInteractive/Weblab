@@ -58,13 +58,13 @@ Style your résumé using CSS styling elements.
 ### Grading
 |                                                                                                                                                                                         | Points |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Style 2 links: <ul><li>Set the color of the links and remove the underline</li><li>Style `:hover` effect.</li></ul>| 20     |
+| Style 2 links: <ul><li>Set the color of the links and remove the underline</li><li>Style `:hover` effect.</li></ul>| 10     |
 | Use at least one custom font                                                                                                                                                            |  5    |
 | Use an external stylesheet for your css with the `<link>` tag                                                                                                                           | 10     |
 | Style 2 elements (ex: `p`, `address`, `h1`, `b`)                                                                                                                                        | 10     |
 | Create and use 5 classes more than once                                                                                                                                                 | 50     |
 | Explore a new CSS Property: Find a property from this [list](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), Mozilla CSS Reference, and use it in at least one id or class |    5    |
-| Validate your [html](https://validator.w3.org/) and [css](https://jigsaw.w3.org/css-validator/)                                                                                        | 5      |
+| Validate your [html](https://validator.w3.org/) and [css](https://jigsaw.w3.org/css-validator/)                                                                                        |   10    |
 | **Total Points** | 100      |
 
 ## Responsive Site
