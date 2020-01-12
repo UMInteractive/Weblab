@@ -79,7 +79,7 @@ Choose a hobby, cause, or topic you might be interested in and create a personal
 | Four different multi-row or multi-column grid content sections. (ex: picture gallery, multi-column text, text and image) | 60     |
 | HTML: <ul><li>Use the `header`, `main`, and `footer` tags</li><li>Style page appropriately</li>                          | 10     |
 | Create a wireframe or design drawing of your site                                                                        | 10     |
-| **Total Points** | 100    |
+| **Total Points** | 200    |
 
 ## jQuery Assignment Part A
 
