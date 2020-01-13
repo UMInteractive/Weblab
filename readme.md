@@ -1,7 +1,5 @@
-# CIM111 Weblab - Fall 2019
+# CIM111 Weblab - Spring 2019
 
-#### CIM111-32 Wolfson 2046 MoWe 2:30PM - 3:45PM
-#### CIM111-R Wolfson 2046 TuTh 2:00PM - 3:15PM
 
 ### Instructor - Zevensuy Rodriguez
 
@@ -21,11 +19,12 @@
 ## Calendar
 
 ### Week 1 - Introduction to Web
-* [Slides]()
-* [Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/1-Intro-to-the-WWW.md)
-* [Intro to HTML](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
+* [Slides](https://docs.google.com/presentation/d/10_tBFafTokmsAxmn2TK1gUjQ1v_fc00y9R3T12fNhUI/edit?usp=sharing)
+* [Intro to HTML Examples](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
 
-### [Week 2 -Setting up your environment](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+### Week 2 -Setting up your environment
+* [Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
+* [Sign up for Codeplan](https://codepen.io/)
 
 ### [Week 3 - Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
