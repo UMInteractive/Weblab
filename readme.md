@@ -24,7 +24,7 @@
 
 ### Week 2 -Setting up your environment
 * [Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
-* [Sign up for Codeplan](https://codepen.io/)
+* [Sign up for Codepen](https://codepen.io/)
 
 ### [Week 3 - Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 
