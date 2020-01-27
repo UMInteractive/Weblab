@@ -27,6 +27,8 @@
 * [Sign up for Codeplan](https://codepen.io/)
 
 ### [Week 3 - Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
+* [Intro to HTML Examples](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
+* [Class Examples](https://codepen.io/collection/DgEgLk)
 
 ### [Week 4 - CSS](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
