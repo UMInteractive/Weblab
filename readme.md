@@ -20,11 +20,11 @@
 
 ### Week 1 - Introduction to Web
 * [Slides](https://docs.google.com/presentation/d/10_tBFafTokmsAxmn2TK1gUjQ1v_fc00y9R3T12fNhUI/edit?usp=sharing)
-* [Intro to HTML Examples](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
+* [Intro to HTML Examples](https://codepen.io/collection/nRjRga)
 
 ### Week 2 -Setting up your environment
 * [Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
-* [Sign up for Codeplan](https://codepen.io/)
+* [Sign up for Codepen](https://codepen.io/)
 
 ### [Week 3 - Introduction to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
 * [Intro to HTML Examples](https://codepen.io/zevenrodriguez/pen/xxbRoRp)
