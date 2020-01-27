@@ -56,10 +56,4 @@
 
 ### [Week 15 –  Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-## Final Due:
-
-### Zevensuy Rodriguez
-
-CIM111-32 Friday Dec 6th 2:00-4:30PM
-
-CIM111-R Tuesday Dec 10th 5:00-7:30PM
+## Final Due: TBA
