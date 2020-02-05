@@ -60,8 +60,6 @@
 
 ### [Week 14 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-### Thanksgiving (Nov 23rd – Dec 1st)
-
 ### [Week 15 –  Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
 ## Final Due: TBA
