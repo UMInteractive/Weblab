@@ -16,10 +16,10 @@
 *All Assignments to be submitted through Microsoft Teams*
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
-## Calendar
-
 #### [Html Examples](https://codepen.io/collection/nRjRga)
 #### [Class Examples](https://codepen.io/collection/DgEgLk)
+
+## Calendar
 
 ### Week 1 - Introduction to Web
 * [Slides](https://docs.google.com/presentation/d/10_tBFafTokmsAxmn2TK1gUjQ1v_fc00y9R3T12fNhUI/edit?usp=sharing)
@@ -36,6 +36,7 @@
 ### [Week 4 - CSS](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 * [Semantic tags](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md#sections-vs-articles)
 * [More about semantic tags](https://www.semrush.com/blog/semantic-html5-guide/)
+* [Basic Semantic Structure](https://codepen.io/uminteractive/pen/wvavvBo)
 * [Semantic Resume Start](https://codepen.io/uminteractive/pen/oNXvOWW)
 * [Semantic Resume Finished](https://codepen.io/uminteractive/pen/ExjYJog)
 
