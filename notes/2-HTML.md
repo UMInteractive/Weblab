@@ -114,7 +114,7 @@ An inline-level element do not cause a line break.
 
 [td](http://html5doctor.com/element-index/#td) - Defines a cell in a table
 
-#### Sections Tags
+#### Semantic Tags
 
 [div](http://html5doctor.com/element-index/#div) - Defines a section with no special meaning in a document. Often used for children of a defined parent.
 
