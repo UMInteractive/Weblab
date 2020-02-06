@@ -10,7 +10,7 @@ Section J - Patricia Sarmiento Molina MW 5:05-6:20PM Wolfson 3035 [Class Site](h
 
 Section 56 - Jose Guzman Fierro TuTh 2:00-3:15PM Comm Intl 2055 [Class Site]()
 
-Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site]()
+Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://github.com/grinfax/cim111-spring2020)
 
 
 # Resources
