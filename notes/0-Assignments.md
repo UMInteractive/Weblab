@@ -36,7 +36,7 @@ Build a page with your information from your résumé. Your page must have the f
 | Create a table                                             |  10    |
 | Include an ordered or unordered list                       | 10     |
 | Include 2 links                                            | 10     |
-| Use the bold or italics tags twice                         | 10     |
+| Use the em or strong tags twice                            | 10     |
 | Include at least one image                                 | 10     |
 | Resume styling                                             | 5      |
 | **Total Points**                                             | 100      |
