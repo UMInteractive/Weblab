@@ -43,9 +43,7 @@ Build a page with your information from your résumé. Your page must have the f
 | Resume styling                                             | 5      |
 | **Total Points**                                             | 100      |
 
-##### If your class uses codepen disregard the instructions below
-
-### Turning assignment in
+### Turning assignment in (If your class uses codepen disregard the instructions below)
 
 Create a `resume` folder. Place an `index.html` file in the folder. Place your code in that file. Create an `images` folder in your `resume` folder. Please link your `resume` folder on the `index.html` file in your hw folder.
 
