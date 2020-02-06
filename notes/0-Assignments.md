@@ -3,6 +3,8 @@
 
 ## Uploading HW to Github
 
+#### If your class uses codepen disregard github instructions
+
 Using the repository we created in class.
 
 ![Put the Homework Files in Folder](../slides/homework.jpg)
@@ -40,6 +42,8 @@ Build a page with your information from your résumé. Your page must have the f
 | Include at least one image                                 | 10     |
 | Resume styling                                             | 5      |
 | **Total Points**                                             | 100      |
+
+##### If your class uses codepen disregard the instructions below
 
 ### Turning assignment in
 
