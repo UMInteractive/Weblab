@@ -9,7 +9,7 @@
   * To book, office hours please [click here](https://outlook.office365.com/owa/calendar/OfficeHours@miamiedu.onmicrosoft.com/bookings/)
 
 
-# Resourses
+# Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
