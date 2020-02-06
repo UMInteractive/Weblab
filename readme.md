@@ -13,7 +13,7 @@
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
-*All Assignments to be submitted through Microsoft Teams*
+*All Assignments to be submitted through Microsoft Teams. Once you reach the Microsoft Teams app, click on your class, click on the assignments tab, look for the assignment, click on it, then click on add work, copy and paste you codepen link into the add link option.*
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 #### [Html Examples](https://codepen.io/collection/nRjRga)
