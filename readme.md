@@ -17,6 +17,7 @@
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 #### [Html Examples](https://codepen.io/collection/nRjRga)
+#### [CSS Examples](https://codepen.io/collection/XpdzKM)
 #### [Class Examples](https://codepen.io/collection/DgEgLk)
 
 ## Calendar
@@ -41,6 +42,9 @@
 * [Semantic Resume Finished](https://codepen.io/uminteractive/pen/ExjYJog)
 
 ### [Week 5 - Media Formats and Responsiveness](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
+* [CSS Notes](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
+* [CSS Code Collection](https://codepen.io/collection/XpdzKM)
+* [CSS Resume Class Example](https://codepen.io/uminteractive/pen/QWbbGae?editors=1100)
 
 ### [Week 6 - Layouts and Grid](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
 
