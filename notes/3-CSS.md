@@ -8,7 +8,7 @@
 
 [&#x1f453; How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 
-[Web Colors](WebColors)
+[Web Colors](WebColors.md)
 
 
 CSS works by using selectors. Selectors are the ways you target elements on the page.
