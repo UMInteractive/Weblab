@@ -18,6 +18,7 @@
 
 #### [Html Examples](https://codepen.io/collection/nRjRga)
 #### [CSS Examples](https://codepen.io/collection/XpdzKM)
+#### [Responsive Collection](https://codepen.io/collection/nxPWBK)
 #### [Class Examples](https://codepen.io/collection/DgEgLk)
 
 ## Calendar
@@ -47,6 +48,10 @@
 * [CSS Resume Class Example](https://codepen.io/uminteractive/pen/QWbbGae?editors=1100)
 
 ### [Week 6 - Layouts and Grid](https://github.com/UMInteractive/Weblab/blob/master/notes/5-Layout.md)
+* [Responsive Collection](https://codepen.io/collection/nxPWBK)
+* [Block Positioning](https://codepen.io/uminteractive/pen/vYOxdvv)
+* [Basic Example with Inline Block Navigation](https://codepen.io/uminteractive/pen/VwLpQxB)
+* [Grid Example](https://codepen.io/uminteractive/pen/wvaJmMM?editors=0100)
 
 ### [Week 7 - Responsive Website Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
