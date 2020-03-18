@@ -50,7 +50,9 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 ### [Week 14 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-### [Week 15 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points) -->
+### [Week 15 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
+
+-->
 
 
 ### Week of March 23rd
@@ -58,18 +60,17 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 * Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 * Start [javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
+### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### Week of March 30th - Continue jQuery
+### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### Week of April 6th - jQuery Lab Session
+### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
-### Week of April 13th - Final Project Introduction
+### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
-### Week of April 20th – Final Project Check-in
+### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
-### Week of April 27th - Final Project Lab
-
-### Week of May 4th - Final Projects Due
+### Week of May 4th - [Final Projects Due](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 * Spring semester concludes on May 6
 
 
