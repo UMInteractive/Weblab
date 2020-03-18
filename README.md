@@ -15,8 +15,9 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
-###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
-###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
+###  [Syllabus Updated](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab-Updated.pdf)
+<!-- ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md) -->
+###  [Homework Assignments Updated](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md)
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
 ## Calendar
@@ -37,7 +38,7 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 ### [Week 8 - Responsive Website Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
-### [Week 9 - Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+<!-- ### [Week 9 - Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
 ### [Week 10 - Javascript Continued](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
@@ -49,10 +50,30 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 ### [Week 14 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-### [Week 15 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
+### [Week 15 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points) -->
 
 
-## Important Dates
+### Week of March 23rd
+
+* Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+* Start [javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+
+
+### Week of March 30th - Continue jQuery
+
+### Week of April 6th - jQuery Lab Session
+
+### Week of April 13th - Final Project Introduction
+
+### Week of April 20th – Final Project Check-in
+
+### Week of April 27th - Final Project Lab
+
+### Week of May 4th - Final Projects Due
+* Spring semester concludes on May 6
+
+
+<!-- ## Important Dates
 Jan 13 - CLASSES BEGIN
 
 Jan 20 - HOLIDAY (MARTIN LUTHER KING, JR. DAY)
@@ -65,4 +86,4 @@ April 24 - CLASSES END  (11:00 PM)
 
 April 25-April 28 - Reading Days
 
-April 29- May 6 - FINAL EXAMS
+April 29- May 6 - FINAL EXAMS -->

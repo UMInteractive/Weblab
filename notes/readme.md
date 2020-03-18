@@ -16,7 +16,7 @@
 
 ### [Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
+<!-- ### [jQuery plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md) -->
 
 ### [Marketing Workshop](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
