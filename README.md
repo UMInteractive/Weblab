@@ -54,6 +54,8 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 -->
 
+#### This is a general revised syllabus. Sections are at a different pace. Your instructor will set the date for when assignments are due. Instructors will set the structure of class time and lab sessions.
+
 
 ### Week of March 23rd
 
