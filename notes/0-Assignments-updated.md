@@ -83,7 +83,7 @@ Choose a hobby, cause, or topic you might be interested in and create a personal
 | Create a wireframe or design drawing of your site                                                                        | 10     |
 | **Total Points** | 200    |
 
-## jQuery Assignment Part A
+## jQuery Assignment
 
 Choose from one of the two options:
 
