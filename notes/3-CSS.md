@@ -65,7 +65,7 @@ For a list of more properties visit the [mozilla css reference](https://develope
 * [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 * [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 * [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
-* [text-declaration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+* [text-decoration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
 * [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 * [list-styles](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)
 * [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
