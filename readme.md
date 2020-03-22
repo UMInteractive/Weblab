@@ -11,8 +11,10 @@
 
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
-###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
-###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
+<!-- ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf) -->
+###  [Syllabus Updated](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab-Updated.pdf)
+###  [Homework Assignments Updated](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md)
+<!-- ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md) -->
 *All Assignments to be submitted through Microsoft Teams. Once you reach the Microsoft Teams app, click on your class, click on the assignments tab, look for the assignment, click on it, then click on add work, copy and paste you codepen link into the add link option.*
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
@@ -54,7 +56,34 @@
 * [Grid Example Start](https://codepen.io/uminteractive/pen/RwPpMxN)
 * [Grid Example](https://codepen.io/uminteractive/pen/wvaJmMM?editors=0100)
 
-### [Week 7 - Responsive Website Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+
+
+
+#### This is a general revised syllabus. Sections are at a different pace. Your instructor will set the date for when assignments are due. Instructors will set the structure of class time and lab sessions.
+
+
+### Week of March 23rd Responsive Site
+
+* Start [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+* [Intro to Navigation and Responsiveness Video](https://miamiedu-my.sharepoint.com/:v:/g/personal/z_rodriguez2_umiami_edu/EQuNk6CT1_dFvHnmqPFsLKwBic2GjnFMpvRKLgIVGcC9Fg?e=2q0yMn)
+* [Intro to CSS Grid Video](https://miami.zoom.us/rec/share/-Ytqdbe3qjtJR6fKxmz5SJAdHd7-eaa82yFKq_QPmUgwJbjJGq44TtvQK9zqjT6T?startTime=1584728854000)
+* [CSS Grid Responsiveness Video](https://miami.zoom.us/rec/share/4PBJAZbd8GBOR4XG-UzAaKsYP6fVeaa8gygeq_sEzUdI28bhmO_Yuxns0hwGY6BX?startTime=1584732654000)
+
+### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+
+### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+
+### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+
+### Week of May 4th - [Final Projects Due](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
+* Spring semester concludes on May 6
+
+
+<!-- ### [Week 7 - Responsive Website Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
 ### [Week 8 - Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
@@ -72,4 +101,4 @@
 
 ### [Week 15 –  Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
-## Final Due: TBA
+## Final Due: TBA -->
