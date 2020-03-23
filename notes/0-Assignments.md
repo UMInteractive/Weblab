@@ -1,6 +1,8 @@
 
 # Assignments
 
+# [This is the old Assignments page please visit this updated page for the most current assignments](0-Assignments-updated.md)
+
 ## Uploading HW to Github
 
 #### If your class uses codepen disregard github instructions
@@ -77,7 +79,7 @@ Choose a hobby, cause, or topic you might be interested in and create a personal
 |                                                                                                                          | Points |
 |--------------------------------------------------------------------------------------------------------------------------|--------|
 |  Desktop and Mobile Layouts:<ul><li>External stylesheet for each view</li><li>Styling for each layout</li></ul>          | 80     |
-| Desktop and Mobile Navigation (min 3 pages)                                                                                            | 40     |
+| Desktop and Mobile Navigation                                                                                         | 40     |
 | Four different multi-row or multi-column grid content sections. (ex: picture gallery, multi-column text, text and image) | 60     |
 | HTML: <ul><li>Use the `header`, `main`, and `footer` tags</li><li>Style page appropriately</li>                          | 10     |
 | Create a wireframe or design drawing of your site                                                                        | 10     |
