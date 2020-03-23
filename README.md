@@ -59,7 +59,7 @@ Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site](https://git
 
 ### Week of March 23rd
 
-* Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+* Finish [Responsive/Midterm Assignment](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#responsive-site)
 * Start [javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
