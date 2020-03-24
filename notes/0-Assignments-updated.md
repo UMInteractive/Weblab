@@ -103,7 +103,7 @@ This is the minimum number of things you must include on your site:
 | 3 `.click()`, `.mouseover()`, or `.mouseleave()` events | 60     |
 | 1 `.show()`, `.hide()`, or `.toggle()` event            | 10     |
 | 1 `.html()`                                             | 10     |
-| 1 `.css()`                                              | 10     |
+| 1 `.css()` , '.addClass()'                                             | 10     |
 | Minimum of 5 Images                                     | 10     |
 | Use the `<header>` tag                                  | 5      |
 | Intro paragraph                                         | 5      |
