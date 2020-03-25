@@ -69,6 +69,7 @@
 * [Intro to Navigation and Responsiveness Video](https://miamiedu-my.sharepoint.com/:v:/g/personal/z_rodriguez2_umiami_edu/EQuNk6CT1_dFvHnmqPFsLKwBic2GjnFMpvRKLgIVGcC9Fg?e=2q0yMn)
 * [Intro to CSS Grid Video](https://miami.zoom.us/rec/share/-Ytqdbe3qjtJR6fKxmz5SJAdHd7-eaa82yFKq_QPmUgwJbjJGq44TtvQK9zqjT6T?startTime=1584728854000)
 * [CSS Grid Responsiveness Video](https://miami.zoom.us/rec/share/4PBJAZbd8GBOR4XG-UzAaKsYP6fVeaa8gygeq_sEzUdI28bhmO_Yuxns0hwGY6BX?startTime=1584732654000)
+* [Wireframe How To](https://miami.zoom.us/rec/share/-fVIdvbb2ntJT8_8ymTca7AAAq_YT6a8hHcZ-acOnht3IwFNWe-CFccfl8kX_uoQ?startTime=1585149525000)
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
