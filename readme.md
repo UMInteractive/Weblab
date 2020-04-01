@@ -73,6 +73,10 @@
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
+* [Intro to Javascript/jQuery Video](https://miami.zoom.us/rec/share/4J1Rf_Loq2lJWonR10vFeoM9RIK_eaa80HUX_PAOyEfjkm88425rv0aw55IMMQQp?startTime=1585749950000)
+* [Intro to Javascript/jQuery Video Example](https://codepen.io/uminteractive/pen/WNvmPGN)
+* [jQuery Examples](https://codepen.io/collection/nbYewg)
+
 ### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
 ### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
