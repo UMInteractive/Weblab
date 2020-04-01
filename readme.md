@@ -72,7 +72,7 @@
 * [Wireframe How To](https://miami.zoom.us/rec/share/-fVIdvbb2ntJT8_8ymTca7AAAq_YT6a8hHcZ-acOnht3IwFNWe-CFccfl8kX_uoQ?startTime=1585149525000)
 
 ### Week of March 30th - [Continue jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
-
+* [Important Codepen Changes](https://miami.zoom.us/rec/share/tY9rAO_T6mRLbKvV4lH1c7wiHL3BX6a80yVM8vdYxE-hkJgcH11l0XWuqZ0D9sjP?startTime=1585576266000)
 * [Intro to Javascript/jQuery Video](https://miami.zoom.us/rec/share/4J1Rf_Loq2lJWonR10vFeoM9RIK_eaa80HUX_PAOyEfjkm88425rv0aw55IMMQQp?startTime=1585749950000)
 * [Intro to Javascript/jQuery Video Example](https://codepen.io/uminteractive/pen/WNvmPGN)
 * [jQuery Examples](https://codepen.io/collection/nbYewg)
