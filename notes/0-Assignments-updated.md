@@ -100,12 +100,12 @@ This is the minimum number of things you must include on your site:
 
 |                                                         | Points |
 |---------------------------------------------------------|--------|
-| 3 `.click()`, `.mouseover()`, or `.mouseleave()` events | 60     |
-| 1 `.show()`, `.hide()`, or `.toggle()` event            | 10     |
+| Choose minimum 3 `.click()`, `.mouseover()`,`.mouseleave()`,`.mousedown()`, or `mouseup()` events | 60     |
+| Choose minimum 1 `.show()`, `.hide()`, `.toggle()`, .`.slideUp()`, `.fadeIn()`, or `.fadeOut()` event            | 10     |
 | 1 `.html()`                                             | 10     |
 | 1 `.css()`                                              | 10     |
 | Minimum of 5 Images                                     | 10     |
-| Use the `<header>` tag                                  | 5      |
+| Use heading h1-h6 tags                                  | 5      |
 | Intro paragraph                                         | 5      |
 | A 5-item list                                          | 5      |
 | Use CSS creatively to make your site presentable        | 25     |
