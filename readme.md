@@ -79,6 +79,14 @@
 
 ### Week of April 6th - [jQuery Lab Session](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
+* #### [jQuery Assignment Video](https://miami.zoom.us/rec/share/_eF2AoHL-EBOR4nJx1v8W7cdF7vUX6a8hyZK-qVfn0s6rSQrT5wK7lUjZE-Kj6Ho?startTime=1585921324000)
+* [Intro to Javascript/jQuery Video](https://miami.zoom.us/rec/share/4J1Rf_Loq2lJWonR10vFeoM9RIK_eaa80HUX_PAOyEfjkm88425rv0aw55IMMQQp?startTime=1585749950000)
+* [jQuery Continued Video](https://miami.zoom.us/rec/share/vfdUH4z-_HJJcqfO7UzBVqcxJqrYX6a8hHcdrPVbxUspgktlndR6RNnE-m_Z-vU2?startTime=1585839895000)
+* [Intro to Javascript/jQuery Video Example](https://codepen.io/uminteractive/pen/WNvmPGN)
+* [jQuery Overview Video Examples](https://miami.zoom.us/rec/share/9JMvALrhqWRIa7fny2DhWZcwRIa0aaa80yhNrPIOyRzttaFrEmxi9LixIRvlZ7Kn?startTime=1585845452000)
+* [jQuery Overview Video Examples](https://codepen.io/collection/nbYewg)
+
+
 ### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
 ### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
