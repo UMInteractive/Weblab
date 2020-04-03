@@ -83,7 +83,7 @@
 * [Intro to Javascript/jQuery Video](https://miami.zoom.us/rec/share/4J1Rf_Loq2lJWonR10vFeoM9RIK_eaa80HUX_PAOyEfjkm88425rv0aw55IMMQQp?startTime=1585749950000)
 * [jQuery Continued Video](https://miami.zoom.us/rec/share/vfdUH4z-_HJJcqfO7UzBVqcxJqrYX6a8hHcdrPVbxUspgktlndR6RNnE-m_Z-vU2?startTime=1585839895000)
 * [Intro to Javascript/jQuery Video Example](https://codepen.io/uminteractive/pen/WNvmPGN)
-* [jQuery Overview Video Examples](https://miami.zoom.us/rec/share/9JMvALrhqWRIa7fny2DhWZcwRIa0aaa80yhNrPIOyRzttaFrEmxi9LixIRvlZ7Kn?startTime=1585845452000)
+* [jQuery Overview Video](https://miami.zoom.us/rec/share/9JMvALrhqWRIa7fny2DhWZcwRIa0aaa80yhNrPIOyRzttaFrEmxi9LixIRvlZ7Kn?startTime=1585845452000)
 * [jQuery Overview Video Examples](https://codepen.io/collection/nbYewg)
 
 
