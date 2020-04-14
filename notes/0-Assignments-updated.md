@@ -169,7 +169,7 @@ The following questions are a good guide for creating your plan. Please turn thi
 
 -->
 
-### Google Analytics
+### [Google Analytics](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
 Add the Google Analytics script tag to your `index.html` file.
 
