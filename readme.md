@@ -89,6 +89,11 @@
 
 ### Week of April 13th - [Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
+* [Final Project Run Through](https://miami.zoom.us/rec/share/1MJ8cJC3qH5JRomTt07fBv4zF5vFeaa82iJK__oFzBmH3lQNEzv-sSBw91k2KTSL?startTime=1586883330000)
+* [SEO and Google Analytics](https://miami.zoom.us/rec/share/xMJ0BenW22ZLfqPw7mGYRqcMBL_keaa80XBN__Zfmh3F5yWbRG9J-m8nixw0ocO9?startTime=1586884944000)
+* [Google Analytics: Testing Traffic](https://miami.zoom.us/rec/share/9_csFZrCpkhIHYHwyFiEWqohJq_OX6a81nJPrqIEzRscxhgcnyutUCx5_HT59Zaf?startTime=1586959362000)
+* [Project Panel Codepen](https://miami.zoom.us/rec/share/55ZFMvLA2V9IUonc2W_ufIJ9IIXMT6a81SIZrvNZy0ia4GleLjh8ChMjN4FCM3R3?startTime=1586886615000)
+
 ### Week of April 20th – [Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
 
 ### Week of April 27th - [Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments-updated.md#final-project)
